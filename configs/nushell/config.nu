@@ -35,8 +35,8 @@ alias ld = eza -lhD --icons=auto
 alias lt = eza --icons=auto --tree
 
 #cd shortcuts
-alias .. = cd ..
-alias ... = cd ../..
+alias .. = z ..
+alias ... = z ../..
 
 #convert kill to killall
 alias kill = killall
@@ -67,3 +67,9 @@ $env.config = {
   }
 }
 
+#zoxide
+source ~/.zoxide.nu
+alias cd = __zoxide_z
+
+#use fzf with preview(bat)
+ alias fzf = fzf --preview="bat --color=always {}"

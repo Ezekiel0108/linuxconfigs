@@ -17,3 +17,4 @@
 # You can remove these comments if you want or leave
 # them for future reference.
 
+zoxide init nushell | save -f ~/.zoxide.nu
