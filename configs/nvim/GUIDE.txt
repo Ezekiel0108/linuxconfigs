@@ -1,0 +1,3 @@
+If you want to change ANYTHING in the configs and need to use specific settings like rquire and setup() then
+for the love of god just use the init.lua inside this folder, this was written by you, or me? ezekiel btw just so you remember
+

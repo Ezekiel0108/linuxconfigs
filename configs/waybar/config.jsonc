@@ -1,0 +1,361 @@
+//   --// fuck wbarconfgen.sh shit has been modified by me >:P //--   //
+{
+  // sourced from header module //
+  "layer": "top",
+  "output": [
+    "*"
+  ],
+  "position": "top",
+  "mod": "dock",
+  "height": 31,
+  "exclusive": true,
+  "passthrough": false,
+  "gtk-layer-shell": true,
+  "reload_style_on_change": true,
+  "margin-top": 5,
+  "margin-left": 6,
+  "margin-right": 6,
+  // positions generated based on config.ctl //
+  "modules-left": [
+    "custom/padd",
+    "custom/power",
+    "custom/r_end",
+    "custom/l_end",
+    "custom/ytMusic",
+    "custom/mediaplayer",
+    "custom/r_end",
+    "custom/l_end",
+    "wlr/taskbar",
+    "custom/r_ending",
+    "",
+    "custom/padd"
+  ],
+  "modules-center": [
+    "custom/padd",
+    "custom/cava_lL",
+    "custom/cava",
+    "custom/codeIcon",
+    "clock",
+    "custom/neovim",
+    "custom/cava",
+    "custom/cava_rR",
+    "custom/padd"
+  ],
+  "modules-right": [
+    "custom/padd",
+    "custom/l_ending",
+    "privacy",
+    "tray",
+    "battery",
+    "custom/r_end",
+    "custom/l_end",
+    "backlight",
+    "network",
+    "pulseaudio",
+    "pulseaudio#microphone",
+    "custom/keybindhint",
+    "custom/padd"
+  ],
+  // sourced from modules based on config.ctl //
+  "custom/power": {
+    "format": "<span size='x-large'></span>",
+    "font-size": 18,
+    "rotate": 0,
+    "exec": "echo ; echo  logout",
+    "on-click": "logoutlaunch.sh 2",
+    "on-click-right": "logoutlaunch.sh 1",
+    "interval": 86400, // once every day
+    "tooltip": true
+  },
+  "custom/ytMusic": {
+    "format": "<span size='x-large'> </span>",
+    "rotate": 0,
+    "exec": "echo ; echo  open Youtube Music",
+    "on-click": "sleep 0.1 && youtube-music",
+    "interval": 86400, // once every day
+    "tooltip": true
+  },
+  "custom/cava": {
+    "format": "{}",
+    "rotate": 0,
+    "exec": "/home/ezekiel/.local/share/bin/waybar_cava.sh && sleep 0.1",
+    "tooltip": false
+  },
+  "custom/neovim": {
+    "format": "<span size='x-large'></span>",
+    "rotate": 0,
+    "exec": "echo ; echo  open neovim",
+    "on-click": "sleep 0.1 && kitty -e nvim",
+    "interval": 86400,
+    "tooltip": true
+  },
+  "custom/codeIcon": {
+    "format": "<span size='x-large'></span>",
+    "rotate": 0,
+    "interval": 86400,
+    "tooltip": false
+  },
+  "wlr/taskbar": {
+    "format": "{icon}",
+    "rotate": 0,
+    "icon-size": 15,
+    "icon-theme": "Tela-circle-purple",
+    "spacing": 0,
+    "tooltip-format": "{title}",
+    "on-click": "activate",
+    "on-click-middle": "close",
+    "ignore-list": [
+      "kitty",
+      "*YouTube Music*"
+    ],
+    "app_ids-mapping": {
+      "firefoxdeveloperedition": "firefox-developer-edition",
+      "jetbrains-datagrip": "DataGrip"
+    }
+  },
+  "custom/mediaplayer": {
+    "exec": "mediaplayer.py --player chromium",
+    "format": "{}",
+    "rotate": 0,
+    "return-type": "json",
+    "on-click": "playerctl play-pause --player chromium",
+    "on-click-right": "playerctl next --player chromium",
+    "on-click-middle": "playerctl previous --player chromium",
+    "on-scroll-up": "volumecontrol.sh -p chromium -i",
+    "on-scroll-down": "volumecontrol.sh -p chromium d",
+    "max-length": 35,
+    "escape": true,
+    "tooltip": true
+  },
+  "clock": {
+    "format": "{:%I:%M %p}",
+    "rotate": 0,
+    "format-alt": "{:%R 󰃭 %d·%m·%y}",
+    "tooltip-format": "<span>{calendar}</span>",
+    "calendar": {
+      "mode": "month",
+      "mode-mon-col": 3,
+      "on-scroll": 1,
+      "on-click-right": "mode",
+      "format": {
+        "months": "<span color='#ffead3'><b>{}</b></span>",
+        "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
+        "today": "<span color='#ff6699'><b>{}</b></span>"
+      }
+    },
+    "actions": {
+      "on-click-right": "mode",
+      "on-click-forward": "tz_up",
+      "on-click-backward": "tz_down",
+      "on-scroll-up": "shift_up",
+      "on-scroll-down": "shift_down"
+    }
+  },
+  "privacy": {
+    "icon-size": 14,
+    "icon-spacing": 5,
+    "transition-duration": 250,
+    "modules": [
+      {
+        "type": "screenshare",
+        "tooltip": true,
+        "tooltip-icon-size": 24
+      },
+      {
+        "type": "audio-in",
+        "tooltip": true,
+        "tooltip-icon-size": 24
+      }
+    ]
+  },
+  "tray": {
+    "icon-size": 18,
+    "rotate": 0,
+    "spacing": 5
+  },
+  "battery": {
+    "states": {
+      "good": 95,
+      "warning": 30,
+      "critical": 20
+    },
+    "format": "{icon} {capacity}%",
+    "rotate": 0,
+    "format-charging": " {capacity}%",
+    "format-plugged": " {capacity}%",
+    "format-alt": "{time} {icon}",
+    "format-icons": [
+      "󰂎",
+      "󰁺",
+      "󰁻",
+      "󰁼",
+      "󰁽",
+      "󰁾",
+      "󰁿",
+      "󰂀",
+      "󰂁",
+      "󰂂",
+      "󰁹"
+    ]
+  },
+  "backlight": {
+    "device": "intel_backlight",
+    "rotate": 0,
+    "format": "{icon} {percent}%",
+    "format-icons": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "on-scroll-up": "brightnesscontrol.sh i 1",
+    "on-scroll-down": "brightnesscontrol.sh d 1",
+    "min-length": 6
+  },
+  "network": {
+    "tooltip": true,
+    "format-wifi": "<span size= 'x-large'></span>",
+    "rotate": 0,
+    "format-ethernet": "<span size= 'x-large'>󰈀</span> ",
+    "tooltip-format": "Network: <big><b>{essid}</b></big>\nSignal strength: <b>{signaldBm}dBm ({signalStrength}%)</b>\nFrequency: <b>{frequency}MHz</b>\nInterface: <b>{ifname}</b>\nIP: <b>{ipaddr}/{cidr}</b>\nGateway: <b>{gwaddr}</b>\nNetmask: <b>{netmask}</b>",
+    "format-linked": "<span size= 'x-large'>󰈀 {ifname} (No IP)</span>",
+    "format-disconnected": "<span size= 'x-large'>󰖪</span>",
+    "tooltip-format-disconnected": "Disconnected",
+    "format-alt": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
+    "interval": 2,
+  },
+  "pulseaudio": {
+    "format": "{icon}  {volume}",
+    "rotate": 0,
+    "format-muted": "<span size= 'x-large'>󰖁</span>",
+    "on-click": "pavucontrol -t 3",
+    "on-click-right": "volumecontrol.sh -s ''",
+    "on-click-middle": "volumecontrol.sh -o m",
+    "on-scroll-up": "volumecontrol.sh -o i",
+    "on-scroll-down": "volumecontrol.sh -o d",
+    "tooltip-format": " {desc} // {volume}%",
+    "scroll-step": 5,
+    "format-icons": {
+      "headphone": "",
+      "hands-free": "",
+      "headset": "",
+      "phone": "",
+      "portable": "",
+      "car": "",
+      "default": [
+        "<span size= 'x-large'></span>",
+        "<span size= 'x-large'></span>",
+        "<span size= 'x-large'></span>"
+      ]
+    }
+  },
+  "pulseaudio#microphone": {
+    "format": "<span size= 'x-large'>{format_source}</span>",
+    "rotate": 0,
+    "format-source": "",
+    "format-source-muted": "",
+    "on-click": "pavucontrol -t 4",
+    "on-click-middle": "volumecontrol.sh -i m",
+    "on-scroll-up": "volumecontrol.sh -i i",
+    "on-scroll-down": "volumecontrol.sh -i d",
+    "tooltip-format": "{format_source} {source_desc} // {source_volume}%",
+    "scroll-step": 5
+  },
+  "custom/keybindhint": {
+    "format": "<span size= 'x-large'> </span>",
+    "tooltip-format": " Keybinds",
+    "rotate": 0,
+    "on-click": "keybinds_hint.sh"
+  },
+  // modules for padding //
+  "custom/l_ending": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/r_ending": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/clock_l": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/clock_r": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/cava_lL": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/cava_rL": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/cava_lR": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/cava_rR": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/l_end": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/l_begin": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/r_begin": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/r_end": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/sl_end": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/sr_end": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/rl_end": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/rr_end": {
+    "format": " ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/padd": {
+    "format": "  ",
+    "interval": "once",
+    "tooltip": false
+  }
+}

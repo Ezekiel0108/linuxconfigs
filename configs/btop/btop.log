@@ -1,0 +1,768 @@
+
+2025/01/11 (23:50:54) | ===> btop++ v.1.4.0
+2025/01/11 (23:50:54) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:50:54) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:50:55) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:50:56) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:50:57) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:50:58) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:50:59) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:00) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:01) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:02) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:03) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:04) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:05) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:06) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:07) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:08) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:09) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:10) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:11) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:12) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:13) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:14) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:15) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:16) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:17) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:18) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:19) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:20) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:21) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:22) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:23) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:24) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:25) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:26) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:27) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:28) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:29) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:30) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:31) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:32) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:33) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:34) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:35) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:36) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:37) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:38) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:39) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:40) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:41) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:42) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:43) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:44) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:45) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:46) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:47) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:48) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:49) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:50) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:51) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:52) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:53) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:54) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:55) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/11 (23:51:56) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+
+2025/01/12 (18:59:10) | ===> btop++ v.1.4.0
+2025/01/12 (18:59:10) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:10) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:11) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:12) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:13) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:14) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:15) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:16) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:17) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:18) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:19) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:20) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:21) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:22) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:23) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:24) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:25) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:26) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:27) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:28) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:29) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:30) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:31) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:32) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:33) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:34) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:35) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:36) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:37) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:38) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:39) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:40) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:41) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:42) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:43) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:44) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:45) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:46) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:47) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:48) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:49) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:50) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:51) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:52) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:53) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:54) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:55) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:55) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:55) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:55) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:56) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:57) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:58) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:59) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:59) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:59) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/01/12 (18:59:59) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+
+2025/01/14 (17:25:51) | ===> btop++ v.1.4.0
+2025/01/14 (17:25:51) | ERROR: Invalid size of hex value: fff
+
+2025/01/14 (17:28:39) | ===> btop++ v.1.4.0
+2025/01/14 (17:28:39) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:30:52) | ===> btop++ v.1.4.0
+2025/01/14 (17:30:52) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:33:41) | ===> btop++ v.1.4.0
+2025/01/14 (17:33:41) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:35:41) | ===> btop++ v.1.4.0
+2025/01/14 (17:35:41) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:36:51) | ===> btop++ v.1.4.0
+2025/01/14 (17:36:51) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:38:53) | ===> btop++ v.1.4.0
+2025/01/14 (17:38:53) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:40:20) | ===> btop++ v.1.4.0
+2025/01/14 (17:40:20) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:43:48) | ===> btop++ v.1.4.0
+2025/01/14 (17:43:48) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:44:26) | ===> btop++ v.1.4.0
+2025/01/14 (17:44:26) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:49:28) | ===> btop++ v.1.4.0
+2025/01/14 (17:49:28) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:49:49) | ===> btop++ v.1.4.0
+2025/01/14 (17:49:49) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:57:04) | ===> btop++ v.1.4.0
+2025/01/14 (17:57:04) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (17:58:57) | ===> btop++ v.1.4.0
+2025/01/14 (17:58:57) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (18:02:19) | ===> btop++ v.1.4.0
+2025/01/14 (18:02:19) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (22:22:29) | ===> btop++ v.1.4.0
+2025/01/14 (22:22:29) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (22:23:34) | ===> btop++ v.1.4.0
+2025/01/14 (22:23:34) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (22:23:53) | ===> btop++ v.1.4.0
+2025/01/14 (22:23:53) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (22:26:10) | ===> btop++ v.1.4.0
+2025/01/14 (22:26:10) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/14 (22:26:10) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/14 (22:26:10) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (22:26:29) | ===> btop++ v.1.4.0
+2025/01/14 (22:26:29) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/14 (22:26:29) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/14 (22:26:29) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (22:26:43) | ===> btop++ v.1.4.0
+2025/01/14 (22:26:43) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/14 (22:26:43) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/14 (22:26:43) | ERROR: Invalid hex value: #695782
+
+2025/01/14 (23:49:16) | ===> btop++ v.1.4.0
+2025/01/14 (23:49:16) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/14 (23:49:16) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/14 (23:49:16) | ERROR: Invalid hex value: #695782
+
+2025/01/15 (15:17:10) | ===> btop++ v.1.4.0
+2025/01/15 (15:17:10) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/15 (15:17:10) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/15 (15:17:10) | ERROR: Invalid hex value: #695782
+
+2025/01/15 (15:34:22) | ===> btop++ v.1.4.0
+2025/01/15 (15:34:22) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/15 (15:34:22) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/15 (15:34:22) | ERROR: Invalid hex value: #695782
+
+2025/01/15 (20:54:28) | ===> btop++ v.1.4.0
+2025/01/15 (20:54:28) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/15 (20:54:28) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/15 (20:54:28) | ERROR: Invalid hex value: #695782
+
+2025/01/15 (21:42:24) | ===> btop++ v.1.4.0
+2025/01/15 (21:42:24) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/15 (21:42:24) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/15 (21:42:24) | ERROR: Invalid hex value: #695782
+
+2025/01/15 (21:43:20) | ===> btop++ v.1.4.0
+2025/01/15 (21:43:20) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/15 (21:43:20) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/15 (21:43:20) | ERROR: Invalid hex value: #695782
+
+2025/01/16 (20:11:51) | ===> btop++ v.1.4.0
+2025/01/16 (20:11:51) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/16 (20:11:51) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/16 (20:11:51) | ERROR: Invalid hex value: #695782
+
+2025/01/17 (21:06:27) | ===> btop++ v.1.4.0
+2025/01/17 (21:06:27) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/17 (21:06:27) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/17 (21:06:27) | ERROR: Invalid hex value: #695782
+
+2025/01/18 (16:31:01) | ===> btop++ v.1.4.0
+2025/01/18 (16:31:01) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/18 (16:31:01) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/18 (16:31:01) | ERROR: Invalid hex value: #695782
+
+2025/01/18 (16:58:45) | ===> btop++ v.1.4.0
+2025/01/18 (16:58:45) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/18 (16:58:45) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/18 (16:58:45) | ERROR: Invalid hex value: #695782
+
+2025/01/20 (19:58:05) | ===> btop++ v.1.4.0
+2025/01/20 (19:58:05) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/20 (19:58:05) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/20 (19:58:05) | ERROR: Invalid hex value: #695782
+
+2025/01/20 (20:40:34) | ===> btop++ v.1.4.0
+2025/01/20 (20:40:34) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/20 (20:40:34) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/20 (20:40:34) | ERROR: Invalid hex value: #695782
+
+2025/01/21 (21:41:46) | ===> btop++ v.1.4.0
+2025/01/21 (21:41:46) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/21 (21:41:46) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/21 (21:41:46) | ERROR: Invalid hex value: #695782
+
+2025/01/23 (00:39:58) | ===> btop++ v.1.4.0
+2025/01/23 (00:39:58) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/23 (00:39:58) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/23 (00:39:58) | ERROR: Invalid hex value: #695782
+
+2025/01/23 (19:57:59) | ===> btop++ v.1.4.0
+2025/01/23 (19:57:59) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/23 (19:57:59) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/23 (19:57:59) | ERROR: Invalid hex value: #695782
+
+2025/01/25 (22:31:19) | ===> btop++ v.1.4.0
+2025/01/25 (22:31:19) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/25 (22:31:19) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/25 (22:31:19) | ERROR: Invalid hex value: #695782
+
+2025/01/26 (01:05:25) | ===> btop++ v.1.4.0
+2025/01/26 (01:05:25) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/26 (01:05:25) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/26 (01:05:25) | ERROR: Invalid hex value: #695782
+
+2025/01/27 (22:51:14) | ===> btop++ v.1.4.0
+2025/01/27 (22:51:14) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/27 (22:51:14) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/27 (22:51:14) | ERROR: Invalid hex value: #695782
+
+2025/01/28 (22:44:14) | ===> btop++ v.1.4.0
+2025/01/28 (22:44:14) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/28 (22:44:14) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/28 (22:44:14) | ERROR: Invalid hex value: #695782
+
+2025/01/29 (21:03:46) | ===> btop++ v.1.4.0
+2025/01/29 (21:03:46) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (21:03:46) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/29 (21:03:46) | ERROR: Invalid hex value: #695782
+
+2025/01/29 (21:10:14) | ===> btop++ v.1.4.0
+2025/01/29 (21:10:14) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (21:10:14) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/29 (21:10:14) | ERROR: Invalid hex value: #695782
+
+2025/01/29 (21:49:46) | ===> btop++ v.1.4.0
+2025/01/29 (21:49:46) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/29 (21:49:46) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/29 (21:49:46) | ERROR: Invalid hex value: #695782
+
+2025/01/30 (16:08:00) | ===> btop++ v.1.4.0
+2025/01/30 (16:08:00) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/30 (16:08:00) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/30 (16:08:00) | ERROR: Invalid hex value: #695782
+
+2025/01/30 (20:12:13) | ===> btop++ v.1.4.0
+2025/01/30 (20:12:13) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/30 (20:12:13) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/30 (20:12:13) | ERROR: Invalid hex value: #695782
+
+2025/01/31 (23:17:18) | ===> btop++ v.1.4.0
+2025/01/31 (23:17:18) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/01/31 (23:17:18) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/01/31 (23:17:18) | ERROR: Invalid hex value: #695782
+
+2025/02/01 (21:18:35) | ===> btop++ v.1.4.0
+2025/02/01 (21:18:35) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/01 (21:18:35) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/01 (21:18:35) | ERROR: Invalid hex value: #695782
+
+2025/02/02 (20:05:22) | ===> btop++ v.1.4.0
+2025/02/02 (20:05:22) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/02 (20:05:22) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/02 (20:05:22) | ERROR: Invalid hex value: #695782
+
+2025/02/03 (15:13:02) | ===> btop++ v.1.4.0
+2025/02/03 (15:13:02) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/03 (15:13:02) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/03 (15:13:02) | ERROR: Invalid hex value: #695782
+
+2025/02/03 (15:52:37) | ===> btop++ v.1.4.0
+2025/02/03 (15:52:37) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/03 (15:52:37) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/03 (15:52:37) | ERROR: Invalid hex value: #695782
+
+2025/02/03 (16:09:07) | ===> btop++ v.1.4.0
+2025/02/03 (16:09:07) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/03 (16:09:07) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/03 (16:09:07) | ERROR: Invalid hex value: #695782
+
+2025/02/04 (14:04:55) | ===> btop++ v.1.4.0
+2025/02/04 (14:04:55) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/04 (14:04:55) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/04 (14:04:55) | ERROR: Invalid hex value: #695782
+
+2025/02/04 (15:50:36) | ===> btop++ v.1.4.0
+2025/02/04 (15:50:36) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/04 (15:50:36) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/04 (15:50:36) | ERROR: Invalid hex value: #695782
+
+2025/02/05 (15:28:02) | ===> btop++ v.1.4.0
+2025/02/05 (15:28:02) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/05 (15:28:02) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/05 (15:28:02) | ERROR: Invalid hex value: #695782
+
+2025/02/05 (22:46:20) | ===> btop++ v.1.4.0
+2025/02/05 (22:46:20) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/05 (22:46:20) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/05 (22:46:20) | ERROR: Invalid hex value: #695782
+
+2025/02/06 (16:36:35) | ===> btop++ v.1.4.0
+2025/02/06 (16:36:35) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/06 (16:36:35) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/06 (16:36:35) | ERROR: Invalid hex value: #695782
+
+2025/02/06 (18:18:00) | ===> btop++ v.1.4.0
+2025/02/06 (18:18:00) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/06 (18:18:00) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/06 (18:18:00) | ERROR: Invalid hex value: #695782
+2025/02/06 (18:20:20) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/02/06 (18:20:20) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/02/06 (19:30:11) | ===> btop++ v.1.4.0
+2025/02/06 (19:30:11) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/06 (19:30:11) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/06 (19:30:11) | ERROR: Invalid hex value: #695782
+
+2025/02/06 (21:23:58) | ===> btop++ v.1.4.0
+2025/02/06 (21:23:58) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/06 (21:23:58) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/06 (21:23:58) | ERROR: Invalid hex value: #695782
+
+2025/02/06 (21:27:43) | ===> btop++ v.1.4.0
+2025/02/06 (21:27:43) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/06 (21:27:43) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/06 (21:27:43) | ERROR: Invalid hex value: #695782
+
+2025/02/06 (22:02:56) | ===> btop++ v.1.4.0
+2025/02/06 (22:02:56) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/06 (22:02:56) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/06 (22:02:56) | ERROR: Invalid hex value: #695782
+
+2025/02/08 (14:55:31) | ===> btop++ v.1.4.0
+2025/02/08 (14:55:31) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/08 (14:55:31) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/08 (14:55:31) | ERROR: Invalid hex value: #695782
+
+2025/02/09 (16:21:31) | ===> btop++ v.1.4.0
+2025/02/09 (16:21:31) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/09 (16:21:31) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/09 (16:21:31) | ERROR: Invalid hex value: #695782
+
+2025/02/11 (20:14:24) | ===> btop++ v.1.4.0
+2025/02/11 (20:14:24) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/11 (20:14:24) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/11 (20:14:24) | ERROR: Invalid hex value: #695782
+
+2025/02/11 (21:57:13) | ===> btop++ v.1.4.0
+2025/02/11 (21:57:13) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/11 (21:57:13) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/11 (21:57:13) | ERROR: Invalid hex value: #695782
+
+2025/02/11 (22:08:11) | ===> btop++ v.1.4.0
+2025/02/11 (22:08:11) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/11 (22:08:11) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/11 (22:08:11) | ERROR: Invalid hex value: #695782
+
+2025/02/12 (17:40:55) | ===> btop++ v.1.4.0
+2025/02/12 (17:40:55) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/12 (17:40:55) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/12 (17:40:55) | ERROR: Invalid hex value: #695782
+
+2025/02/13 (19:49:23) | ===> btop++ v.1.4.0
+2025/02/13 (19:49:23) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/13 (19:49:23) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/13 (19:49:23) | ERROR: Invalid hex value: #695782
+
+2025/02/13 (19:56:58) | ===> btop++ v.1.4.0
+2025/02/13 (19:56:58) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/13 (19:56:58) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/13 (19:56:58) | ERROR: Invalid hex value: #695782
+
+2025/02/15 (00:30:35) | ===> btop++ v.1.4.0
+2025/02/15 (00:30:35) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/15 (00:30:35) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/15 (00:30:35) | ERROR: Invalid hex value: #695782
+2025/02/15 (00:33:10) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/15 (00:33:34) | ===> btop++ v.1.4.0
+2025/02/15 (00:33:34) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/15 (00:33:34) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/15 (00:33:34) | ERROR: Invalid hex value: #695782
+
+2025/02/15 (20:32:16) | ===> btop++ v.1.4.0
+2025/02/15 (20:32:16) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/15 (20:32:16) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/15 (20:32:16) | ERROR: Invalid hex value: #695782
+
+2025/02/16 (21:10:35) | ===> btop++ v.1.4.0
+2025/02/16 (21:10:35) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/16 (21:10:35) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/16 (21:10:35) | ERROR: Invalid hex value: #695782
+
+2025/02/16 (21:21:43) | ===> btop++ v.1.4.0
+2025/02/16 (21:21:43) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/16 (21:21:43) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/16 (21:21:43) | ERROR: Invalid hex value: #695782
+
+2025/02/17 (22:25:58) | ===> btop++ v.1.4.0
+2025/02/17 (22:25:58) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/17 (22:25:58) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/17 (22:25:58) | ERROR: Invalid hex value: #695782
+2025/02/17 (22:26:00) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/18 (14:54:51) | ===> btop++ v.1.4.0
+2025/02/18 (14:54:51) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/18 (14:54:51) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/18 (14:54:51) | ERROR: Invalid hex value: #695782
+
+2025/02/18 (22:33:16) | ===> btop++ v.1.4.0
+2025/02/18 (22:33:16) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/18 (22:33:16) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/18 (22:33:16) | ERROR: Invalid hex value: #695782
+2025/02/18 (22:39:27) | WARNING: Failed to join _runner thread on exit!
+
+2025/02/19 (14:40:35) | ===> btop++ v.1.4.0
+2025/02/19 (14:40:35) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/19 (14:40:35) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/19 (14:40:35) | ERROR: Invalid hex value: #695782
+
+2025/02/20 (18:03:44) | ===> btop++ v.1.4.0
+2025/02/20 (18:03:44) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/20 (18:03:44) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/20 (18:03:44) | ERROR: Invalid hex value: #695782
+
+2025/02/22 (14:51:01) | ===> btop++ v.1.4.0
+2025/02/22 (14:51:01) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/22 (14:51:01) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/22 (14:51:01) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (12:29:52) | ===> btop++ v.1.4.0
+2025/02/23 (12:29:52) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (12:29:52) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (12:29:52) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (12:59:22) | ===> btop++ v.1.4.0
+2025/02/23 (12:59:22) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (12:59:22) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (12:59:22) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (13:07:00) | ===> btop++ v.1.4.0
+2025/02/23 (13:07:00) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (13:07:00) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (13:07:00) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (16:24:10) | ===> btop++ v.1.4.0
+2025/02/23 (16:24:10) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (16:24:10) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (16:24:10) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (22:39:15) | ===> btop++ v.1.4.0
+2025/02/23 (22:39:15) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (22:39:15) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (22:39:15) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (22:40:17) | ===> btop++ v.1.4.0
+2025/02/23 (22:40:17) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (22:40:17) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (22:40:17) | ERROR: Invalid hex value: #695782
+
+2025/02/23 (23:17:57) | ===> btop++ v.1.4.0
+2025/02/23 (23:17:57) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/23 (23:17:57) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/23 (23:17:57) | ERROR: Invalid hex value: #695782
+
+2025/02/24 (14:57:09) | ===> btop++ v.1.4.0
+2025/02/24 (14:57:09) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/24 (14:57:09) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/24 (14:57:09) | ERROR: Invalid hex value: #695782
+
+2025/02/24 (14:59:23) | ===> btop++ v.1.4.0
+2025/02/24 (14:59:23) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/24 (14:59:23) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/24 (14:59:23) | ERROR: Invalid hex value: #695782
+
+2025/02/24 (15:57:33) | ===> btop++ v.1.4.0
+2025/02/24 (15:57:33) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/24 (15:57:33) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/24 (15:57:33) | ERROR: Invalid hex value: #695782
+
+2025/02/24 (22:44:17) | ===> btop++ v.1.4.0
+2025/02/24 (22:44:17) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/24 (22:44:17) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/24 (22:44:17) | ERROR: Invalid hex value: #695782
+
+2025/02/27 (22:09:17) | ===> btop++ v.1.4.0
+2025/02/27 (22:09:17) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/27 (22:09:17) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/27 (22:09:17) | ERROR: Invalid hex value: #695782
+
+2025/02/28 (14:57:01) | ===> btop++ v.1.4.0
+2025/02/28 (14:57:01) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/28 (14:57:01) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/28 (14:57:01) | ERROR: Invalid hex value: #695782
+
+2025/02/28 (15:43:35) | ===> btop++ v.1.4.0
+2025/02/28 (15:43:35) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/28 (15:43:35) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/28 (15:43:35) | ERROR: Invalid hex value: #695782
+
+2025/02/28 (16:48:31) | ===> btop++ v.1.4.0
+2025/02/28 (16:48:31) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/28 (16:48:31) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/28 (16:48:31) | ERROR: Invalid hex value: #695782
+
+2025/02/28 (17:22:09) | ===> btop++ v.1.4.0
+2025/02/28 (17:22:09) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/02/28 (17:22:09) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/02/28 (17:22:09) | ERROR: Invalid hex value: #695782
+
+2025/03/01 (10:35:57) | ===> btop++ v.1.4.0
+2025/03/01 (10:35:57) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (10:35:57) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (10:35:57) | ERROR: Invalid hex value: #695782
+
+2025/03/01 (12:13:11) | ===> btop++ v.1.4.0
+2025/03/01 (12:13:11) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (12:13:11) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (12:13:11) | ERROR: Invalid hex value: #695782
+2025/03/01 (12:13:57) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/01 (14:37:52) | ===> btop++ v.1.4.0
+2025/03/01 (14:37:52) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (14:37:52) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (14:37:52) | ERROR: Invalid hex value: #695782
+2025/03/01 (14:38:00) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/01 (15:46:41) | ===> btop++ v.1.4.0
+2025/03/01 (15:46:41) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (15:46:41) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (15:46:41) | ERROR: Invalid hex value: #695782
+
+2025/03/01 (15:48:00) | ===> btop++ v.1.4.0
+2025/03/01 (15:48:00) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (15:48:00) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (15:48:00) | ERROR: Invalid hex value: #695782
+
+2025/03/01 (19:14:12) | ===> btop++ v.1.4.0
+2025/03/01 (19:14:12) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (19:14:12) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (19:14:12) | ERROR: Invalid hex value: #695782
+
+2025/03/01 (23:23:22) | ===> btop++ v.1.4.0
+2025/03/01 (23:23:22) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/01 (23:23:22) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/01 (23:23:22) | ERROR: Invalid hex value: #695782
+
+2025/03/03 (12:00:32) | ===> btop++ v.1.4.0
+2025/03/03 (12:00:32) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/03 (12:00:32) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/03 (12:00:32) | ERROR: Invalid hex value: #695782
+
+2025/03/03 (13:04:45) | ===> btop++ v.1.4.0
+2025/03/03 (13:04:45) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/03 (13:04:45) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/03 (13:04:45) | ERROR: Invalid hex value: #695782
+
+2025/03/03 (14:43:56) | ===> btop++ v.1.4.0
+2025/03/03 (14:43:56) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/03 (14:43:56) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/03 (14:43:56) | ERROR: Invalid hex value: #695782
+
+2025/03/03 (14:56:40) | ===> btop++ v.1.4.0
+2025/03/03 (14:56:40) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/03 (14:56:40) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/03 (14:56:40) | ERROR: Invalid hex value: #695782
+
+2025/03/03 (14:57:07) | ===> btop++ v.1.4.0
+2025/03/03 (14:57:07) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/03 (14:57:07) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/03 (14:57:07) | ERROR: Invalid hex value: #695782
+2025/03/03 (14:57:09) | WARNING: Failed to join _runner thread on exit!
+
+2025/03/04 (15:31:09) | ===> btop++ v.1.4.0
+2025/03/04 (15:31:09) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/04 (15:31:09) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/04 (15:31:09) | ERROR: Invalid hex value: #695782
+
+2025/03/05 (18:44:32) | ===> btop++ v.1.4.0
+2025/03/05 (18:44:32) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/05 (18:44:32) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/05 (18:44:32) | ERROR: Invalid hex value: #695782
+
+2025/03/05 (18:55:49) | ===> btop++ v.1.4.0
+2025/03/05 (18:55:49) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/05 (18:55:49) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/05 (18:55:49) | ERROR: Invalid hex value: #695782
+2025/03/05 (18:56:25) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!
+2025/03/05 (18:56:25) | ERROR: Couldn't determine terminal size of "/dev/tty"!
+
+2025/03/05 (23:26:06) | ===> btop++ v.1.4.0
+2025/03/05 (23:26:06) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/05 (23:26:06) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/05 (23:26:06) | ERROR: Invalid hex value: #695782
+
+2025/03/05 (23:28:06) | ===> btop++ v.1.4.0
+2025/03/05 (23:28:06) | ERROR: No UTF-8 locale detected!
+Use --utf-force argument to force start if you're sure your terminal can handle it.
+
+2025/03/05 (23:29:03) | ===> btop++ v.1.4.0
+2025/03/05 (23:29:03) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/05 (23:29:03) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/05 (23:29:03) | ERROR: Invalid hex value: #695782
+
+2025/03/06 (16:57:31) | ===> btop++ v.1.4.0
+2025/03/06 (16:57:31) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/06 (16:57:31) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/06 (16:57:31) | ERROR: Invalid hex value: #695782
+
+2025/03/06 (20:33:50) | ===> btop++ v.1.4.0
+2025/03/06 (20:33:50) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/06 (20:33:50) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/06 (20:33:50) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (15:21:32) | ===> btop++ v.1.4.0
+2025/03/07 (15:21:32) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (15:21:32) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (15:21:32) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (15:38:39) | ===> btop++ v.1.4.0
+2025/03/07 (15:38:39) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (15:38:39) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (15:38:39) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (15:39:09) | ===> btop++ v.1.4.0
+2025/03/07 (15:39:09) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (15:39:09) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (15:39:09) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (15:42:55) | ===> btop++ v.1.4.0
+2025/03/07 (15:42:55) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (15:42:55) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (15:42:55) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (15:52:36) | ===> btop++ v.1.4.0
+2025/03/07 (15:52:36) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (15:52:36) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (15:52:36) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (16:01:22) | ===> btop++ v.1.4.0
+2025/03/07 (16:01:22) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (16:01:22) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (16:01:22) | ERROR: Invalid hex value: #695782
+
+2025/03/07 (16:20:53) | ===> btop++ v.1.4.0
+2025/03/07 (16:20:53) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/07 (16:20:53) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/07 (16:20:53) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (12:22:45) | ===> btop++ v.1.4.0
+2025/03/08 (12:22:45) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (12:22:45) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (12:22:45) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (12:30:13) | ===> btop++ v.1.4.0
+2025/03/08 (12:30:13) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (12:30:13) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (12:30:13) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (12:39:36) | ===> btop++ v.1.4.0
+2025/03/08 (12:39:36) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (12:39:36) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (12:39:36) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (16:15:26) | ===> btop++ v.1.4.0
+2025/03/08 (16:15:26) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (16:15:26) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (16:15:26) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (16:16:26) | ===> btop++ v.1.4.0
+2025/03/08 (16:16:26) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (16:16:26) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (16:16:26) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (16:32:03) | ===> btop++ v.1.4.0
+2025/03/08 (16:32:03) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (16:32:03) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (16:32:03) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (16:44:00) | ===> btop++ v.1.4.0
+2025/03/08 (16:44:00) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (16:44:00) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (16:44:00) | ERROR: Invalid hex value: #695782
+
+2025/03/08 (23:54:16) | ===> btop++ v.1.4.0
+2025/03/08 (23:54:16) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/08 (23:54:16) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/08 (23:54:16) | ERROR: Invalid hex value: #695782
+
+2025/03/09 (02:29:29) | ===> btop++ v.1.4.0
+2025/03/09 (02:29:29) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/09 (02:29:29) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/09 (02:29:29) | ERROR: Invalid hex value: #695782
+
+2025/03/09 (15:40:25) | ===> btop++ v.1.4.0
+2025/03/09 (15:40:25) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/09 (15:40:25) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/09 (15:40:25) | ERROR: Invalid hex value: #695782
+
+2025/03/10 (21:40:16) | ===> btop++ v.1.4.0
+2025/03/10 (21:40:16) | WARNING: ROCm SMI: Failed to get maximum GPU temperature, defaulting to 110°C
+2025/03/10 (21:40:16) | WARNING: ROCm SMI: Failed to get PCIe throughput
+2025/03/10 (21:40:16) | ERROR: Invalid hex value: #695782

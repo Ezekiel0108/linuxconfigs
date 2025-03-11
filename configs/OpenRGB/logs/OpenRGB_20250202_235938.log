@@ -1,0 +1,59 @@
+    OpenRGB v0.9
+    Commit:  from 
+    Launched: 20250202_235938
+====================================================================================================
+
+0     |Info:    Found file: Purple.orp attempting to validate header
+0     |Info:    Valid v4 profile found for Purple
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    |               Start device detection               |
+1005  |Info:    ------------------------------------------------------
+1005  |Info:    Initializing HID interfaces: Success
+1318  |Info:    ------------------------------------------------------
+1318  |Info:    |             Detecting I2C interfaces               |
+1318  |Info:    ------------------------------------------------------
+1318  |Info:    Registering I2C interface: /dev/i2c-3 Device 1002:73DF Subsystem: 1EAE:6710
+1318  |Info:    Registering I2C interface: /dev/i2c-10 Device 1022:790B Subsystem: 1043:87C0
+1318  |Info:    Registering I2C interface: /dev/i2c-1 Device 1002:73DF Subsystem: 1EAE:6710
+1318  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1318  |Info:    Registering I2C interface: /dev/i2c-8 Device 0000:0000 Subsystem: 0000:0000
+1318  |Info:    Registering I2C interface: /dev/i2c-6 Device 1002:73DF Subsystem: 1EAE:6710
+1318  |Info:    Registering I2C interface: /dev/i2c-4 Device 1002:73DF Subsystem: 1EAE:6710
+1318  |Info:    Registering I2C interface: /dev/i2c-11 Device 1022:790B Subsystem: 1043:87C0
+1318  |Info:    Registering I2C interface: /dev/i2c-2 Device 1002:73DF Subsystem: 1EAE:6710
+1318  |Info:    Registering I2C interface: /dev/i2c-0 Device 0000:0000 Subsystem: 0000:0000
+1318  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1318  |Info:    Registering I2C interface: /dev/i2c-9 Device 0000:0000 Subsystem: 0000:0000
+1318  |Warning: [i2c_smbus_linux] Failed to read i2c device PCI device ID
+1318  |Info:    Registering I2C interface: /dev/i2c-7 Device 0000:0000 Subsystem: 0000:0000
+1318  |Info:    Registering I2C interface: /dev/i2c-5 Device 1002:73DF Subsystem: 1EAE:6710
+1319  |Info:    Registering I2C interface: /dev/i2c-12 Device 1022:790B Subsystem: 1043:87C0
+1319  |Info:    ------------------------------------------------------
+1319  |Info:    |               Detecting I2C devices                |
+1319  |Info:    ------------------------------------------------------
+1739  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+1751  |Info:    [Corsair Vengeance Pro RGB] Registering RGB controller
+2540  |Info:    ------------------------------------------------------
+2540  |Info:    |               Detecting I2C PCI devices            |
+2540  |Info:    ------------------------------------------------------
+2541  |Info:    ------------------------------------------------------
+2541  |Info:    |               Detecting HID devices                |
+2541  |Info:    ------------------------------------------------------
+2617  |Info:    [ASUS ROG STRIX B550-A GAMING] Registering RGB controller
+3039  |Info:    [G502 HERO Gaming Mouse] Registering RGB controller
+3039  |Info:    ------------------------------------------------------
+3039  |Info:    |            Detecting libusb HID devices            |
+3039  |Info:    ------------------------------------------------------
+3105  |Info:    ------------------------------------------------------
+3105  |Info:    |              Detecting other devices               |
+3105  |Info:    ------------------------------------------------------
+3109  |Info:    [Mechanical keyboard] Registering RGB controller
+3110  |Info:    ------------------------------------------------------
+3110  |Info:    |                Detection completed                 |
+3110  |Info:    ------------------------------------------------------
+3110  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-10, address 0x5A
+3110  |Info:    Profile loading: Succeeded for Corsair Vengeance Pro RGB @ I2C: /dev/i2c-10, address 0x5B
+3110  |Info:    Profile loading: Succeeded for ASUS ROG STRIX B550-A GAMING @ HID: /dev/hidraw7
+3110  |Info:    Profile loading: Succeeded for G502 HERO Gaming Mouse @ HID: /dev/hidraw6 (Receiver) 
+Wireless Index: 255
+3110  |Info:    Profile loading: FAILED! for Mechanical keyboard @ COM: 00

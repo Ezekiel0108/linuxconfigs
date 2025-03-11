@@ -1,0 +1,3120 @@
+ls
+cd games
+cd Games
+ls
+clear
+exit
+clear
+fastfetch
+?
+l
+ls
+ps
+$env
+cd .config
+ls
+32
+cd 32
+cd nushell
+nvim
+exit
+ls
+cd .config
+ls
+exit
+clear
+eza -1
+eza -1 --icons=auto
+eza -lha --icons=auto
+ld
+ls
+exit
+clear
+ls
+cd .config/nushell/
+ls
+nvim config.nu
+clear
+nvim config.nu
+clear
+nvim config.nu
+cd .config/fish
+ls
+cat config.fish
+ls
+ls -a
+fastfetch
+clear
+ls
+nvim env.nu
+l
+ls
+clear
+ls
+eza -lha --icons=auto
+ls -a
+ls -h
+ls
+lt
+clear
+ls
+ls -a
+clear
+l
+lsa
+clear
+ls
+pipes.sh
+cava
+clear
+..
+-
+cd -
+cd ..
+cd ~
+...
+clear
+cd -
+...
+-
+...
+-
+...
+-
+nvim config.nu
+clear
+ls
+cd .config/nushell/
+cd .conf
+cd ~/Coding
+cd Rust/
+ls
+cd hello_world/
+ls
+cd hello_cargo/
+cd ~
+clear
+clear
+cd .config/nushell/
+ls
+fish
+cd .config/fish
+ls
+sudo pacman -Rsn starship
+clear
+ls
+clear
+sudo pacman -S starship
+clear
+ls
+clear
+cd .config/starship
+cd .config/
+ls
+cd vendor/autoload
+cd $nu.data-dir
+ls
+cd vendor/autoload
+ls
+cd .config
+clear
+cd fish
+ls
+cd completions/
+ls
+nvim fishline.fish
+../functions
+ls
+cd .config
+ls star*
+ls -a
+cd fish
+lutris
+fastfetch
+cd .coa
+lolcat | cbonsai -il
+cbonsai -il | lolcat
+clear
+cbonsai -il
+cd .config/nushell/
+fastfetch
+echo 5+3
+echo '5+3'
+echo "5+3"
+nvim
+ls
+cd .config/fish
+ls
+nvim
+mkdir plugins
+ls
+cd plugins/
+mkdir --help
+cargo install nu_plugin_highlight
+cd .config/nushell/
+nvim
+ls
+which nu_plugin_highlight
+which hyprland.conf
+$PATH nu_plugin_highlight
+cd env.PATH nu_plugin_highlight
+cd $PATH nu_plugin_highlight
+cd $env.PATH nu_plugin_highlight
+$env.PATH nu_plugin_highlight
+$env.PATH --help
+$env.PATH -help
+clear
+fastfetch --help
+clear
+ls
+cd .config/nushell/
+ls
+cd ~/.cargo
+ls
+cd bin
+ls
+which nu_plugin_highlight
+type nu_plugin_highlight
+describe nu_plugin_highlight
+which pwd
+which ~
+which lutris
+which nu_plugin_highlight
+plugin add ~/.cargo/bin/nu_plugin_highlight
+plugin use  highlight
+help commands | where command_type == "plugin"
+highlight -h
+fzf
+which hyprland.conf
+which kirby
+sudo pacman -Rsn fish
+fisher
+sudo pacman -Rsqn fish
+pactree
+pactree fish
+pacman -h
+pacman -Syu
+sudo pacman -Syu
+reboot
+cav
+pipes.sh
+fastfetch
+cd .config/fastfetch/
+ls
+which kirby
+fastfetch
+clear
+fastfetch
+ds
+eza
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch]
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+clear
+fastfetch
+nvim tempConfFastfetch.txt
+ls
+nvim  config.jsonc
+clear
+fastfetch
+cat tempConfFastfetch.txt
+clear
+fastfetch
+clear
+fastfetch
+rm tempConfFastfetch.txt
+clear
+ls - get hyprland.conf
+ls | get hyprland.conf
+clear
+l
+clear
+nvim
+fastfetch
+cd .config/fastfetch/
+ls
+fastfetch
+cleart
+clear
+fastfetch
+clear
+cd .config/
+nivm starship.toml
+clear
+cd .config/
+cd Downloads/
+cd ..
+fastfetch
+ls
+cd Coding/Rust/
+ls
+cd hello_world/
+nvim starship.toml
+rm starship.toml
+clear
+nvim starship.toml
+clear
+ls
+fastfetch
+clear
+cd Coding/Rust/hello_world/
+cd ~/.config/kitty/
+ls
+fastfetch
+clear
+cd Downloads/
+fastfetch
+clear
+cd ..
+clear
+nvim starship.toml
+clear
+kill kitty
+kill waybar
+kill all kitty
+clear
+killall kitty
+cd .config/nushell/
+ls
+cat history.txt
+clear
+ls
+nvim config.nu
+kill kitty
+cd .config/
+ls
+cd ..
+ls
+clear
+where starship.toml
+which starship.toml
+ls -a
+cd .config
+ls
+lutris
+clear
+fastfetch
+cd Coding/Homework/
+ls
+sudo pacman -Rsn fish
+sudo pacman -Rsn fish fisher
+clear
+cd ~
+cd Documents/
+ls
+mkdir temp
+cd temp/
+ls
+cp ~/.config/starship.toml ./
+ls
+rm .config/starship.toml
+mv Documents/temp/starship.toml .config/
+clear
+fastfetch
+poweroff
+fastfetch
+kg pods -o yaml
+from
+cd .config/waybar
+ls
+from config.jsonc
+from json
+config.jsonc | from json
+config | from json
+config.jsonc | from json | explore
+cd ..
+get pods -o json
+clear
+eza | to json
+ls
+cd //
+cd ~
+clear
+waybar | to json
+kill kitty zen
+l
+l | to
+l | from
+l | from csv
+l | from json
+l | from yaml
+l | from yml;
+l | from ods
+clear
+l | from csv
+ls | from csv
+ll
+ll | from csv
+lh
+clear
+cd | from csv
+clear
+fastfetch
+fastfetch | from csv
+fastfetch | from json
+clear
+waybar | from json
+waybar | from csv
+clear
+gstat https://github.com/kovidgoyal/kitty
+[]
+[clear]
+clear
+fastfetch | from json
+fastfetch 
+clear
+fastfetch 
+cd /media/nvme2
+ls
+cd Games
+ls
+cd `Kirby's Return to Dream Land Deluxe/`
+ls
+l | from csv
+clear
+l
+cd ~
+clear
+kitty -h
+cd .config/hypr
+ls
+nvim windowrules.conf
+clear
+fastfetch 
+nvim windowrules.conf
+:wq
+clear
+btop
+clear
+fastfetch 
+cbonsai -il
+pacman -l
+pacman -Q
+pacman -Q | from csv
+pacman -Q | from csv | split column
+pacman -Q | from csv | split column 
+pacman -Q | from csv | split column ' '
+pacman -Q |  split column ' '
+pacman -Q |  split column ''
+pacman -Q |  split column --collapse-empty
+pacman -Q |  split column --collapse-empty ' '
+pacman -Q |  split row --collapse-empty ' '
+pacman -Q |  split row  ' '
+clear
+pacman -Qq
+pacman -Qq | split row
+pacman -Qq | split row ''
+pacman -Qq | split row ' '
+pacman -Qq | split row '\n'
+clear
+pacman -Qq
+sudo pacman -S 7zip<\n>a52dec<\n>abseil-cpp<\n>acl<\n>adobe-source-code-pro-fonts<\n>adwaita-cursors<\n>adwaita-icon-theme<\n>adwaita-icon-theme-legacy<\n>afdko<\n>afdko-debug<\n>alsa-card-profiles<\n>alsa-lib<\n>alsa-plugins<\n>alsa-topology-conf<\n>alsa-ucm-conf<\n>amd-ucode<\n>android-sdk<\n>android-sdk-debug<\n>android-tools<\n>android-udev<\n>aom<\n>appstream<\n>aquamarine<\n>archlinux-keyring<\n>argon2<\n>aribb24<\n>ark<\n>at-spi2-core<\n>atkmm<\n>attica<\n>attr<\n>audit<\n>autoconf<\n>automake<\n>avahi<\n>baloo<\n>baloo-widgets<\n>base<\n>base-devel<\n>bash<\n>binutils<\n>bison<\n>blueman<\n>bluez<\n>bluez-libs<\n>bluez-utils<\n>boost-libs<\n>breeze-icons<\n>brightnessctl<\n>brotli<\n>btop<\n>bubblewrap<\n>bzip2<\n>c-ares<\n>ca-certificates<\n>ca-certificates-mozilla<\n>ca-certificates-utils<\n>cabextract<\n>cairo<\n>cairomm<\n>cairomm-1.16<\n>cantarell-fonts<\n>cava<\n>cava-debug<\n>cbonsai<\n>cbonsai-debug<\n>cifs-utils<\n>clang<\n>cliphist<\n>cmake<\n>colord<\n>compiler-rt<\n>composefs<\n>convertlit<\n>coreutils<\n>cppdap<\n>cryptsetup<\n>curl<\n>dav1d<\n>db5.3<\n>dbus<\n>dbus-broker<\n>dbus-broker-units<\n>dbus-glib<\n>dbus-units<\n>dconf<\n>debugedit<\n>default-cursors<\n>desktop-file-utils<\n>device-mapper<\n>diffutils<\n>dkms<\n>dolphin<\n>double-conversion<\n>duktape<\n>dunst<\n>dxvk-bin<\n>e2fsprogs<\n>ebook-tools<\n>efibootmgr<\n>efivar<\n>electron32<\n>electron33<\n>elementary-icon-theme<\n>enchant<\n>exiv2<\n>exo<\n>expat<\n>eza<\n>faad2<\n>fakeroot<\n>fastfetch<\n>fd<\n>ffmpeg<\n>ffmpeg4.4<\n>ffmpegthumbs<\n>fftw<\n>file<\n>filelight<\n>filesystem<\n>findutils<\n>fish<\n>fisher<\n>flac<\n>flatpak<\n>flex<\n>fmt<\n>fontconfig<\n>fontforge<\n>freeglut<\n>freetype2<\n>fribidi<\n>fuse-common<\n>fuse2<\n>fuse3<\n>fzf<\n>garcon<\n>gawk<\n>gc<\n>gcc<\n>gcc-libs<\n>gcr-4<\n>gd<\n>gdbm<\n>gdk-pixbuf2<\n>gettext<\n>giflib<\n>git<\n>glib-networking<\n>glib2<\n>glib2-devel<\n>glibc<\n>glibmm<\n>glibmm-2.68<\n>glslang<\n>glu<\n>gmp<\n>gnome-desktop<\n>gnome-desktop-common<\n>gnome-themes-extra<\n>gnu-free-fonts<\n>gnulib-l10n<\n>gnupg<\n>gnutls<\n>go<\n>gobject-introspection<\n>gobject-introspection-runtime<\n>gparted<\n>gperftools<\n>gpgme<\n>gpm<\n>graphene<\n>graphite<\n>grep<\n>grim<\n>grimblast-git<\n>groff<\n>grub<\n>gsettings-desktop-schemas<\n>gsettings-system-schemas<\n>gsm<\n>gssdp<\n>gst-plugin-pipewire<\n>gst-plugins-bad-libs<\n>gst-plugins-base-libs<\n>gstreamer<\n>gtest<\n>gtk-layer-shell<\n>gtk-update-icon-cache<\n>gtk3<\n>gtk4<\n>gtkmm-4.0<\n>gtkmm3<\n>guile<\n>gupnp<\n>gupnp-igd<\n>gzip<\n>harfbuzz<\n>harfbuzz-icu<\n>hicolor-icon-theme<\n>hidapi<\n>highway<\n>hsa-rocr<\n>hsakmt-roct<\n>http-parser<\n>hunspell<\n>hwdata<\n>hyde-cli-git<\n>hyphen<\n>hyprcursor<\n>hyprgraphics<\n>hyprland<\n>hyprland-qt-support<\n>hyprland-qtutils<\n>hyprlang<\n>hyprpicker<\n>hyprutils<\n>hyprwayland-scanner<\n>i2c-tools<\n>iana-etc<\n>icu<\n>imagemagick<\n>iniparser<\n>iproute2<\n>iptables<\n>iputils<\n>iso-codes<\n>jack2<\n>jansson<\n>jasper<\n>java-environment-common<\n>java-runtime-common<\n>jbigkit<\n>jdk-openjdk<\n>jq<\n>json-c<\n>json-glib<\n>jsoncpp<\n>karchive<\n>kauth<\n>kbd<\n>kbookmarks<\n>kcmutils<\n>kcodecs<\n>kcolorscheme<\n>kcompletion<\n>kconfig<\n>kconfigwidgets<\n>kcoreaddons<\n>kcrash<\n>kdbusaddons<\n>kde-cli-tools<\n>kdesu<\n>kdnssd<\n>kdsoap-qt6<\n>kdsoap-ws-discovery-client<\n>keyutils<\n>kfilemetadata<\n>kglobalaccel<\n>kguiaddons<\n>ki18n<\n>kiconthemes<\n>kidletime<\n>kio<\n>kio-extras<\n>kirigami<\n>kirigami-addons<\n>kitemmodels<\n>kitemviews<\n>kitty<\n>kitty-shell-integration<\n>kitty-terminfo<\n>kjobwidgets<\n>kmod<\n>knewstuff<\n>knotifications<\n>kpackage<\n>kparts<\n>kpty<\n>krb5<\n>kservice<\n>ksvg<\n>ktextwidgets<\n>kuserfeedback<\n>kvantum<\n>kvantum-qt5<\n>kwallet<\n>kwidgetsaddons<\n>kwindowsystem<\n>kwindowsystem5<\n>kxmlgui<\n>l-smash<\n>lame<\n>lcms2<\n>ldb<\n>leancrypto<\n>lib32-acl<\n>lib32-alsa-lib<\n>lib32-alsa-plugins<\n>lib32-at-spi2-core<\n>lib32-brotli<\n>lib32-bzip2<\n>lib32-cairo<\n>lib32-colord<\n>lib32-curl<\n>lib32-dbus<\n>lib32-e2fsprogs<\n>lib32-expat<\n>lib32-fontconfig<\n>lib32-freetype2<\n>lib32-fribidi<\n>lib32-gcc-libs<\n>lib32-gdk-pixbuf2<\n>lib32-gettext<\n>lib32-glib2<\n>lib32-glibc<\n>lib32-gmp<\n>lib32-gnutls<\n>lib32-gst-plugins-base-libs<\n>lib32-gstreamer<\n>lib32-gtk3<\n>lib32-harfbuzz<\n>lib32-icu<\n>lib32-json-c<\n>lib32-keyutils<\n>lib32-krb5<\n>lib32-lcms2<\n>lib32-libcap<\n>lib32-libcups<\n>lib32-libdatrie<\n>lib32-libdrm<\n>lib32-libelf<\n>lib32-libepoxy<\n>lib32-libffi<\n>lib32-libgcrypt<\n>lib32-libglvnd<\n>lib32-libgpg-error<\n>lib32-libgudev<\n>lib32-libidn2<\n>lib32-libjpeg-turbo<\n>lib32-libjpeg6-turbo<\n>lib32-libldap<\n>lib32-libnghttp2<\n>lib32-libnghttp3<\n>lib32-libnl<\n>lib32-libnsl<\n>lib32-libogg<\n>lib32-libpcap<\n>lib32-libpciaccess<\n>lib32-libpng<\n>lib32-libpsl<\n>lib32-librsvg<\n>lib32-libssh2<\n>lib32-libtasn1<\n>lib32-libthai<\n>lib32-libtheora<\n>lib32-libtiff<\n>lib32-libtirpc<\n>lib32-libunistring<\n>lib32-libunwind<\n>lib32-libusb<\n>lib32-libva<\n>lib32-libvdpau<\n>lib32-libx11<\n>lib32-libxau<\n>lib32-libxcb<\n>lib32-libxcomposite<\n>lib32-libxcrypt<\n>lib32-libxcrypt-compat<\n>lib32-libxcursor<\n>lib32-libxdamage<\n>lib32-libxdmcp<\n>lib32-libxext<\n>lib32-libxfixes<\n>lib32-libxft<\n>lib32-libxi<\n>lib32-libxinerama<\n>lib32-libxkbcommon<\n>lib32-libxml2<\n>lib32-libxrandr<\n>lib32-libxrender<\n>lib32-libxshmfence<\n>lib32-libxss<\n>lib32-libxtst<\n>lib32-libxv<\n>lib32-libxxf86vm<\n>lib32-llvm-libs<\n>lib32-lm_sensors<\n>lib32-lzo-debug<\n>lib32-mesa<\n>lib32-mpg123<\n>lib32-ncurses<\n>lib32-nettle<\n>lib32-nspr<\n>lib32-nss<\n>lib32-ocl-icd<\n>lib32-openal<\n>lib32-openssl<\n>lib32-openssl-1.1<\n>lib32-orc<\n>lib32-p11-kit<\n>lib32-pam<\n>lib32-pango<\n>lib32-pcre2<\n>lib32-pixman<\n>lib32-rust-libs<\n>lib32-speex<\n>lib32-spirv-tools<\n>lib32-sqlite<\n>lib32-systemd<\n>lib32-util-linux<\n>lib32-v4l-utils<\n>lib32-vkd3d<\n>lib32-vulkan-icd-loader<\n>lib32-vulkan-radeon<\n>lib32-wayland<\n>lib32-xcb-util-keysyms<\n>lib32-xz<\n>lib32-zlib<\n>lib32-zstd<\n>libadwaita<\n>libappindicator-gtk3<\n>libarchive<\n>libass<\n>libassuan<\n>libasyncns<\n>libatasmart<\n>libavc1394<\n>libavif<\n>libb2<\n>libblockdev<\n>libblockdev-crypto<\n>libblockdev-fs<\n>libblockdev-loop<\n>libblockdev-mdraid<\n>libblockdev-nvme<\n>libblockdev-part<\n>libblockdev-swap<\n>libbluray<\n>libbpf<\n>libbs2b<\n>libbsd<\n>libbytesize<\n>libcanberra<\n>libcap<\n>libcap-ng<\n>libcloudproviders<\n>libcolord<\n>libcups<\n>libdaemon<\n>libdatrie<\n>libdbusmenu-glib<\n>libdbusmenu-gtk3<\n>libdca<\n>libde265<\n>libdecor<\n>libdisplay-info<\n>libdovi<\n>libdrm<\n>libdvbpsi<\n>libdvdnav<\n>libdvdread<\n>libebml<\n>libedit<\n>libei<\n>libelf<\n>libepoxy<\n>libevdev<\n>libevent<\n>libexif<\n>libfaketime<\n>libfdk-aac<\n>libffi<\n>libfontenc<\n>libfreeaptx<\n>libgcrypt<\n>libgirepository<\n>libgit2<\n>libglvnd<\n>libgpg-error<\n>libgphoto2<\n>libgtop<\n>libgudev<\n>libgusb<\n>libheif<\n>libice<\n>libidn<\n>libidn2<\n>libiec61883<\n>libimagequant<\n>libimobiledevice<\n>libimobiledevice-glue<\n>libinih<\n>libinput<\n>libisl<\n>libjpeg-turbo<\n>libjpeg6-turbo<\n>libjxl<\n>libkexiv2<\n>libksba<\n>liblc3<\n>libldac<\n>libldap<\n>libliftoff<\n>liblqr<\n>libluv<\n>libmad<\n>libmalcontent<\n>libmanette<\n>libmatroska<\n>libmd<\n>libmfx<\n>libmm-glib<\n>libmng<\n>libmnl<\n>libmodplug<\n>libmpc<\n>libmpcdec<\n>libmpdclient<\n>libmpeg2<\n>libmtp<\n>libmysofa<\n>libndp<\n>libnet<\n>libnetfilter_conntrack<\n>libnewt<\n>libnfnetlink<\n>libnftnl<\n>libnghttp2<\n>libnghttp3<\n>libnice<\n>libnl<\n>libnm<\n>libnma<\n>libnma-common<\n>libnotify<\n>libnsl<\n>libnvme<\n>libogg<\n>libopenmpt<\n>libp11-kit<\n>libpcap<\n>libpciaccess<\n>libpgm<\n>libpipewire<\n>libplacebo<\n>libplist<\n>libpng<\n>libproxy<\n>libpsl<\n>libpulse<\n>libraqm<\n>libraw1394<\n>librsvg<\n>librsync<\n>libsamplerate<\n>libsasl<\n>libseccomp<\n>libsecret<\n>libsigc++<\n>libsigc++-3.0<\n>libsm<\n>libsndfile<\n>libsodium<\n>libsoup<\n>libsoup3<\n>libsoxr<\n>libspiro<\n>libspng<\n>libssh<\n>libssh2<\n>libstemmer<\n>libsysprof-capture<\n>libtar<\n>libtasn1<\n>libteam<\n>libthai<\n>libtheora<\n>libtiff<\n>libtirpc<\n>libtommath<\n>libtool<\n>libtorrent-rasterbar<\n>libunibreak<\n>libuninameslist<\n>libunistring<\n>libunwind<\n>libupnp<\n>libusb<\n>libusbmuxd<\n>libutempter<\n>libutf8proc<\n>libuv<\n>libva<\n>libva-utils<\n>libvdpau<\n>libverto<\n>libvlc<\n>libvorbis<\n>libvpl<\n>libvpx<\n>libvterm<\n>libwacom<\n>libwbclient<\n>libwebp<\n>libwireplumber<\n>libx11<\n>libxau<\n>libxcb<\n>libxcomposite<\n>libxcrypt<\n>libxcrypt-compat<\n>libxcursor<\n>libxcvt<\n>libxdamage<\n>libxdmcp<\n>libxext<\n>libxfce4ui<\n>libxfce4util<\n>libxfixes<\n>libxfont2<\n>libxft<\n>libxi<\n>libxinerama<\n>libxkbcommon<\n>libxkbcommon-x11<\n>libxkbfile<\n>libxklavier<\n>libxml2<\n>libxmlb<\n>libxmu<\n>libxpm<\n>libxrandr<\n>libxrender<\n>libxshmfence<\n>libxslt<\n>libxss<\n>libxt<\n>libxtst<\n>libxv<\n>libxxf86vm<\n>libyaml<\n>libyuv<\n>libzip<\n>licenses<\n>lilv<\n>linux<\n>linux-api-headers<\n>linux-firmware<\n>linux-firmware-whence<\n>lld<\n>llhttp<\n>llvm-libs<\n>lm_sensors<\n>lmdb<\n>lolcat<\n>lsb-release<\n>lsof<\n>lua<\n>lua51-lpeg<\n>luajit<\n>lutris<\n>lv2<\n>lz4<\n>lzo<\n>m4<\n>mailcap<\n>make<\n>mbedtls2<\n>md4c<\n>mdadm<\n>media-player-info<\n>mesa<\n>mesa-utils<\n>meson<\n>mingw-w64-binutils<\n>mingw-w64-crt<\n>mingw-w64-gcc<\n>mingw-w64-headers<\n>mingw-w64-tools<\n>mingw-w64-tools-debug<\n>mingw-w64-winpthreads<\n>minizip<\n>mkinitcpio<\n>mkinitcpio-busybox<\n>mobile-broadband-provider-info<\n>mpdecimal<\n>mpfr<\n>mpg123<\n>msgpack-c<\n>mtdev<\n>nasm<\n>ncurses<\n>neovim<\n>nettle<\n>network-manager-applet<\n>networkmanager<\n>ninja<\n>nm-connection-editor<\n>nordzy-hyprcursors<\n>npth<\n>nspr<\n>nss<\n>numactl<\n>nushell<\n>nwg-look<\n>obsidian<\n>ocl-icd<\n>oniguruma<\n>openal<\n>opencl-headers<\n>opencore-amr<\n>openjpeg2<\n>openrgb<\n>openssh<\n>openssl<\n>openssl-1.1<\n>openxr<\n>opus<\n>orc<\n>os-prober<\n>ostree<\n>p11-kit<\n>pacman<\n>pacman-contrib<\n>pacman-mirrorlist<\n>pam<\n>pambase<\n>pamixer<\n>pango<\n>pangomm<\n>pangomm-2.48<\n>parallel<\n>parted<\n>patch<\n>pavucontrol<\n>pciutils<\n>pcre<\n>pcre2<\n>pcsclite<\n>perl<\n>perl-error<\n>perl-mailtools<\n>perl-timedate<\n>phonon-qt6<\n>phonon-qt6-vlc<\n>pinentry<\n>pipes.sh<\n>pipewire<\n>pipewire-alsa<\n>pipewire-audio<\n>pipewire-pulse<\n>pixman<\n>pkgconf<\n>plasma-activities<\n>playerctl<\n>polkit<\n>polkit-gnome<\n>polkit-qt6<\n>poppler<\n>poppler-qt6<\n>popt<\n>portaudio<\n>potrace<\n>procps-ng<\n>protobuf<\n>proton-ge-custom-bin<\n>psmisc<\n>pugixml<\n>python<\n>python-appdirs<\n>python-autocommand<\n>python-beautifulsoup4<\n>python-booleanoperations<\n>python-brotli<\n>python-build<\n>python-cairo<\n>python-certifi<\n>python-charset-normalizer<\n>python-dbus<\n>python-defcon<\n>python-distro<\n>python-docopt<\n>python-evdev<\n>python-fontmath<\n>python-fontparts<\n>python-fontpens<\n>python-fonttools<\n>python-fs<\n>python-gobject<\n>python-idna<\n>python-iniconfig<\n>python-installer<\n>python-jaraco.collections<\n>python-jaraco.context<\n>python-jaraco.functools<\n>python-jaraco.text<\n>python-keyutils<\n>python-lxml<\n>python-mako<\n>python-markdown<\n>python-markupsafe<\n>python-moddb<\n>python-more-itertools<\n>python-mutatormath<\n>python-packaging<\n>python-pefile<\n>python-pillow<\n>python-platformdirs<\n>python-pluggy<\n>python-pyamdgpuinfo<\n>python-pyamdgpuinfo-debug<\n>python-pyclipper<\n>python-pyproject-hooks<\n>python-pytest<\n>python-requests<\n>python-scikit-build<\n>python-setuptools<\n>python-setuptools-scm<\n>python-six<\n>python-soupsieve<\n>python-tqdm<\n>python-ufonormalizer<\n>python-ufoprocessor<\n>python-unicodedata2<\n>python-urllib3<\n>python-wheel<\n>python-yaml<\n>python-zopfli<\n>qbittorrent<\n>qca-qt6<\n>qqc2-desktop-style<\n>qt5-base<\n>qt5-declarative<\n>qt5-graphicaleffects<\n>qt5-imageformats<\n>qt5-quickcontrols<\n>qt5-quickcontrols2<\n>qt5-svg<\n>qt5-tools<\n>qt5-translations<\n>qt5-wayland<\n>qt5-x11extras<\n>qt5ct<\n>qt6-3d<\n>qt6-5compat<\n>qt6-base<\n>qt6-charts<\n>qt6-connectivity<\n>qt6-datavis3d<\n>qt6-declarative<\n>qt6-doc<\n>qt6-examples<\n>qt6-graphs<\n>qt6-grpc<\n>qt6-httpserver<\n>qt6-imageformats<\n>qt6-languageserver<\n>qt6-location<\n>qt6-lottie<\n>qt6-multimedia<\n>qt6-multimedia-ffmpeg<\n>qt6-networkauth<\n>qt6-positioning<\n>qt6-quick3d<\n>qt6-quick3dphysics<\n>qt6-quickeffectmaker<\n>qt6-quicktimeline<\n>qt6-remoteobjects<\n>qt6-scxml<\n>qt6-sensors<\n>qt6-serialbus<\n>qt6-serialport<\n>qt6-shadertools<\n>qt6-speech<\n>qt6-svg<\n>qt6-tools<\n>qt6-translations<\n>qt6-virtualkeyboard<\n>qt6-wayland<\n>qt6-webchannel<\n>qt6-webengine<\n>qt6-websockets<\n>qt6-webview<\n>qt6ct<\n>rav1e<\n>re2<\n>readline<\n>rhash<\n>ripgrep<\n>ripgrep-all<\n>rocm-core<\n>rocm-device-libs<\n>rocm-smi-lib<\n>rofi-wayland<\n>rsync<\n>rtkit<\n>rubberband<\n>ruby<\n>ruby-erb<\n>ruby-manpages<\n>ruby-optimist<\n>ruby-paint<\n>ruby-rdoc<\n>rubygems<\n>rust<\n>rust-analyzer<\n>rust-src<\n>sbc<\n>sdbus-cpp<\n>sddm<\n>sdl2-compat<\n>sdl3<\n>seatd<\n>sed<\n>serd<\n>shaderc<\n>shadow<\n>shared-mime-info<\n>slang<\n>slurp<\n>smbclient<\n>snappy<\n>sndio<\n>solid<\n>sonnet<\n>sord<\n>sound-theme-freedesktop<\n>spdlog<\n>speex<\n>speexdsp<\n>spirv-tools<\n>sqlite<\n>sratom<\n>srt<\n>starship<\n>startup-notification<\n>steam<\n>sudo<\n>svt-av1<\n>swappy<\n>swaylock-effects-git<\n>swaylock-effects-git-debug<\n>swww<\n>syndication<\n>syntax-highlighting<\n>systemd<\n>systemd-libs<\n>systemd-sysvcompat<\n>taglib<\n>talloc<\n>tar<\n>tdb<\n>tevent<\n>texinfo<\n>the-honkers-railway-launcher-bin-debug<\n>tinysparql<\n>tomlplusplus<\n>tpm2-tss<\n>tree-sitter<\n>tree-sitter-c<\n>tree-sitter-lua<\n>tree-sitter-markdown<\n>tree-sitter-query<\n>tree-sitter-vim<\n>tree-sitter-vimdoc<\n>tslib<\n>ttf-jetbrains-mono-nerd<\n>ttf-liberation<\n>ttf-nerd-fonts-symbols<\n>ttf-nerd-fonts-symbols-common<\n>tzdata<\n>udiskie<\n>udisks2<\n>unibilium<\n>unrar<\n>unzip<\n>upower<\n>usbutils<\n>util-linux<\n>util-linux-libs<\n>v4l-utils<\n>vapoursynth<\n>vid.stab<\n>vim<\n>vim-runtime<\n>vkd3d<\n>vlc<\n>vmaf<\n>volume_key<\n>vulkan-headers<\n>vulkan-icd-loader<\n>vulkan-radeon<\n>vulkan-validation-layers<\n>waybar<\n>wayland<\n>wayland-protocols<\n>webkit2gtk-4.1<\n>webrtc-audio-processing-1<\n>wget<\n>which<\n>wine<\n>wireplumber<\n>wl-clipboard<\n>wlogout<\n>wlogout-debug<\n>woff2<\n>wpa_supplicant<\n>x264<\n>x265<\n>xcb-imdkit<\n>xcb-proto<\n>xcb-util<\n>xcb-util-cursor<\n>xcb-util-errors<\n>xcb-util-image<\n>xcb-util-keysyms<\n>xcb-util-renderutil<\n>xcb-util-wm<\n>xcur2png<\n>xdg-dbus-proxy<\n>xdg-desktop-portal<\n>xdg-desktop-portal-gtk<\n>xdg-desktop-portal-hyprland<\n>xdg-user-dirs<\n>xdg-utils<\n>xf86-input-libinput<\n>xfce4-settings<\n>xfconf<\n>xkeyboard-config<\n>xorg-fonts-encodings<\n>xorg-server<\n>xorg-server-common<\n>xorg-setxkbmap<\n>xorg-xauth<\n>xorg-xhost<\n>xorg-xkbcomp<\n>xorg-xprop<\n>xorg-xrandr<\n>xorg-xset<\n>xorg-xwayland<\n>xorgproto<\n>xvidcore<\n>xxhash<\n>xz<\n>yay<\n>yay-debug<\n>yazi<\n>youtube-music-bin<\n>youtube-music-bin-debug<\n>yyjson<\n>zen-browser-bin<\n>zenity<\n>zeromq<\n>zimg<\n>zix<\n>zlib<\n>zopfli<\n>zoxide<\n>zram-generator<\n>zstd
+nvim temp.txt
+pacman -Qq
+sudo pacman -S 7zip a52dec abseil-cpp acl adobe-source-code-pro-fonts adwaita-cursors adwaita-icon-theme adwaita-icon-theme-legacy afdko afdko-debug alsa-card-profiles alsa-lib alsa-plugins alsa-topology-conf alsa-ucm-conf amd-ucode android-sdk android-sdk-debug android-tools android-udev aom appstream aquamarine archlinux-keyring argon2 aribb24 ark at-spi2-core atkmm attica attr audit autoconf automake avahi baloo baloo-widgets base base-devel bash binutils bison blueman bluez bluez-libs bluez-utils boost-libs breeze-icons brightnessctl brotli btop bubblewrap bzip2 c-ares ca-certificates ca-certificates-mozilla ca-certificates-utils cabextract cairo cairomm cairomm-1.16 cantarell-fonts cava cava-debug cbonsai cbonsai-debug cifs-utils clang cliphist cmake colord compiler-rt composefs convertlit coreutils cppdap cryptsetup curl dav1d db5.3 dbus dbus-broker dbus-broker-units dbus-glib dbus-units dconf debugedit default-cursors desktop-file-utils device-mapper diffutils dkms dolphin double-conversion duktape dunst dxvk-bin e2fsprogs ebook-tools efibootmgr efivar electron32 electron33 elementary-icon-theme enchant exiv2 exo expat eza faad2 fakeroot fastfetch fd ffmpeg ffmpeg4.4 ffmpegthumbs fftw file filelight filesystem findutils fish fisher flac flatpak flex fmt fontconfig fontforge freeglut freetype2 fribidi fuse-common fuse2 fuse3 fzf garcon gawk gc gcc gcc-libs gcr-4 gd gdbm gdk-pixbuf2 gettext giflib git glib-networking glib2 glib2-devel glibc glibmm glibmm-2.68 glslang glu gmp gnome-desktop gnome-desktop-common gnome-themes-extra gnu-free-fonts gnulib-l10n gnupg gnutls go gobject-introspection gobject-introspection-runtime gparted gperftools gpgme gpm graphene graphite grep grim grimblast-git groff grub gsettings-desktop-schemas gsettings-system-schemas gsm gssdp gst-plugin-pipewire gst-plugins-bad-libs gst-plugins-base-libs gstreamer gtest gtk-layer-shell gtk-update-icon-cache gtk3 gtk4 gtkmm-4.0 gtkmm3 guile gupnp gupnp-igd gzip harfbuzz harfbuzz-icu hicolor-icon-theme hidapi highway hsa-rocr hsakmt-roct http-parser hunspell hwdata hyde-cli-git hyphen hyprcursor hyprgraphics hyprland hyprland-qt-support hyprland-qtutils hyprlang hyprpicker hyprutils hyprwayland-scanner i2c-tools iana-etc icu imagemagick iniparser iproute2 iptables iputils iso-codes jack2 jansson jasper java-environment-common java-runtime-common jbigkit jdk-openjdk jq json-c json-glib jsoncpp karchive kauth kbd kbookmarks kcmutils kcodecs kcolorscheme kcompletion kconfig kconfigwidgets kcoreaddons kcrash kdbusaddons kde-cli-tools kdesu kdnssd kdsoap-qt6 kdsoap-ws-discovery-client keyutils kfilemetadata kglobalaccel kguiaddons ki18n kiconthemes kidletime kio kio-extras kirigami kirigami-addons kitemmodels kitemviews kitty kitty-shell-integration kitty-terminfo kjobwidgets kmod knewstuff knotifications kpackage kparts kpty krb5 kservice ksvg ktextwidgets kuserfeedback kvantum kvantum-qt5 kwallet kwidgetsaddons kwindowsystem kwindowsystem5 kxmlgui l-smash lame lcms2 ldb leancrypto lib32-acl lib32-alsa-lib lib32-alsa-plugins lib32-at-spi2-core lib32-brotli lib32-bzip2 lib32-cairo lib32-colord lib32-curl lib32-dbus lib32-e2fsprogs lib32-expat lib32-fontconfig lib32-freetype2 lib32-fribidi lib32-gcc-libs lib32-gdk-pixbuf2 lib32-gettext lib32-glib2 lib32-glibc lib32-gmp lib32-gnutls lib32-gst-plugins-base-libs lib32-gstreamer lib32-gtk3 lib32-harfbuzz lib32-icu lib32-json-c lib32-keyutils lib32-krb5 lib32-lcms2 lib32-libcap lib32-libcups lib32-libdatrie lib32-libdrm lib32-libelf lib32-libepoxy lib32-libffi lib32-libgcrypt lib32-libglvnd lib32-libgpg-error lib32-libgudev lib32-libidn2 lib32-libjpeg-turbo lib32-libjpeg6-turbo lib32-libldap lib32-libnghttp2 lib32-libnghttp3 lib32-libnl lib32-libnsl lib32-libogg lib32-libpcap lib32-libpciaccess lib32-libpng lib32-libpsl lib32-librsvg lib32-libssh2 lib32-libtasn1 lib32-libthai lib32-libtheora lib32-libtiff lib32-libtirpc lib32-libunistring lib32-libunwind lib32-libusb lib32-libva lib32-libvdpau lib32-libx11 lib32-libxau lib32-libxcb lib32-libxcomposite lib32-libxcrypt lib32-libxcrypt-compat lib32-libxcursor lib32-libxdamage lib32-libxdmcp lib32-libxext lib32-libxfixes lib32-libxft lib32-libxi lib32-libxinerama lib32-libxkbcommon lib32-libxml2 lib32-libxrandr lib32-libxrender lib32-libxshmfence lib32-libxss lib32-libxtst lib32-libxv lib32-libxxf86vm lib32-llvm-libs lib32-lm_sensors lib32-lzo-debug lib32-mesa lib32-mpg123 lib32-ncurses lib32-nettle lib32-nspr lib32-nss lib32-ocl-icd lib32-openal lib32-openssl lib32-openssl-1.1 lib32-orc lib32-p11-kit lib32-pam lib32-pango lib32-pcre2 lib32-pixman lib32-rust-libs lib32-speex lib32-spirv-tools lib32-sqlite lib32-systemd lib32-util-linux lib32-v4l-utils lib32-vkd3d lib32-vulkan-icd-loader lib32-vulkan-radeon lib32-wayland lib32-xcb-util-keysyms lib32-xz lib32-zlib lib32-zstd libadwaita libappindicator-gtk3 libarchive libass libassuan libasyncns libatasmart libavc1394 libavif libb2 libblockdev libblockdev-crypto libblockdev-fs libblockdev-loop libblockdev-mdraid libblockdev-nvme libblockdev-part libblockdev-swap libbluray libbpf libbs2b libbsd libbytesize libcanberra libcap libcap-ng libcloudproviders libcolord libcups libdaemon libdatrie libdbusmenu-glib libdbusmenu-gtk3 libdca libde265 libdecor libdisplay-info libdovi libdrm libdvbpsi libdvdnav libdvdread libebml libedit libei libelf libepoxy libevdev libevent libexif libfaketime libfdk-aac libffi libfontenc libfreeaptx libgcrypt libgirepository libgit2 libglvnd libgpg-error libgphoto2 libgtop libgudev libgusb libheif libice libidn libidn2 libiec61883 libimagequant libimobiledevice libimobiledevice-glue libinih libinput libisl libjpeg-turbo libjpeg6-turbo libjxl libkexiv2 libksba liblc3 libldac libldap libliftoff liblqr libluv libmad libmalcontent libmanette libmatroska libmd libmfx libmm-glib libmng libmnl libmodplug libmpc libmpcdec libmpdclient libmpeg2 libmtp libmysofa libndp libnet libnetfilter_conntrack libnewt libnfnetlink libnftnl libnghttp2 libnghttp3 libnice libnl libnm libnma libnma-common libnotify libnsl libnvme libogg libopenmpt libp11-kit libpcap libpciaccess libpgm libpipewire libplacebo libplist libpng libproxy libpsl libpulse libraqm libraw1394 librsvg librsync libsamplerate libsasl libseccomp libsecret libsigc++ libsigc++-3.0 libsm libsndfile libsodium libsoup libsoup3 libsoxr libspiro libspng libssh libssh2 libstemmer libsysprof-capture libtar libtasn1 libteam libthai libtheora libtiff libtirpc libtommath libtool libtorrent-rasterbar libunibreak libuninameslist libunistring libunwind libupnp libusb libusbmuxd libutempter libutf8proc libuv libva libva-utils libvdpau libverto libvlc libvorbis libvpl libvpx libvterm libwacom libwbclient libwebp libwireplumber libx11 libxau libxcb libxcomposite libxcrypt libxcrypt-compat libxcursor libxcvt libxdamage libxdmcp libxext libxfce4ui libxfce4util libxfixes libxfont2 libxft libxi libxinerama libxkbcommon libxkbcommon-x11 libxkbfile libxklavier libxml2 libxmlb libxmu libxpm libxrandr libxrender libxshmfence libxslt libxss libxt libxtst libxv libxxf86vm libyaml libyuv libzip licenses lilv linux linux-api-headers linux-firmware linux-firmware-whence lld llhttp llvm-libs lm_sensors lmdb lolcat lsb-release lsof lua lua51-lpeg luajit lutris lv2 lz4 lzo m4 mailcap make mbedtls2 md4c mdadm media-player-info mesa mesa-utils meson mingw-w64-binutils mingw-w64-crt mingw-w64-gcc mingw-w64-headers mingw-w64-tools mingw-w64-tools-debug mingw-w64-winpthreads minizip mkinitcpio mkinitcpio-busybox mobile-broadband-provider-info mpdecimal mpfr mpg123 msgpack-c mtdev nasm ncurses neovim nettle network-manager-applet networkmanager ninja nm-connection-editor nordzy-hyprcursors npth nspr nss numactl nushell nwg-look obsidian ocl-icd oniguruma openal opencl-headers opencore-amr openjpeg2 openrgb openssh openssl openssl-1.1 openxr opus orc os-prober ostree p11-kit pacman pacman-contrib pacman-mirrorlist pam pambase pamixer pango pangomm pangomm-2.48 parallel parted patch pavucontrol pciutils pcre pcre2 pcsclite perl perl-error perl-mailtools perl-timedate phonon-qt6 phonon-qt6-vlc pinentry pipes.sh pipewire pipewire-alsa pipewire-audio pipewire-pulse pixman pkgconf plasma-activities playerctl polkit polkit-gnome polkit-qt6 poppler poppler-qt6 popt portaudio potrace procps-ng protobuf proton-ge-custom-bin psmisc pugixml python python-appdirs python-autocommand python-beautifulsoup4 python-booleanoperations python-brotli python-build python-cairo python-certifi python-charset-normalizer python-dbus python-defcon python-distro python-docopt python-evdev python-fontmath python-fontparts python-fontpens python-fonttools python-fs python-gobject python-idna python-iniconfig python-installer python-jaraco.collections python-jaraco.context python-jaraco.functools python-jaraco.text python-keyutils python-lxml python-mako python-markdown python-markupsafe python-moddb python-more-itertools python-mutatormath python-packaging python-pefile python-pillow python-platformdirs python-pluggy python-pyamdgpuinfo python-pyamdgpuinfo-debug python-pyclipper python-pyproject-hooks python-pytest python-requests python-scikit-build python-setuptools python-setuptools-scm python-six python-soupsieve python-tqdm python-ufonormalizer python-ufoprocessor python-unicodedata2 python-urllib3 python-wheel python-yaml python-zopfli qbittorrent qca-qt6 qqc2-desktop-style qt5-base qt5-declarative qt5-graphicaleffects qt5-imageformats qt5-quickcontrols qt5-quickcontrols2 qt5-svg qt5-tools qt5-translations qt5-wayland qt5-x11extras qt5ct qt6-3d qt6-5compat qt6-base qt6-charts qt6-connectivity qt6-datavis3d qt6-declarative qt6-doc qt6-examples qt6-graphs qt6-grpc qt6-httpserver qt6-imageformats qt6-languageserver qt6-location qt6-lottie qt6-multimedia qt6-multimedia-ffmpeg qt6-networkauth qt6-positioning qt6-quick3d qt6-quick3dphysics qt6-quickeffectmaker qt6-quicktimeline qt6-remoteobjects qt6-scxml qt6-sensors qt6-serialbus qt6-serialport qt6-shadertools qt6-speech qt6-svg qt6-tools qt6-translations qt6-virtualkeyboard qt6-wayland qt6-webchannel qt6-webengine qt6-websockets qt6-webview qt6ct rav1e re2 readline rhash ripgrep ripgrep-all rocm-core rocm-device-libs rocm-smi-lib rofi-wayland rsync rtkit rubberband ruby ruby-erb ruby-manpages ruby-optimist ruby-paint ruby-rdoc rubygems rust rust-analyzer rust-src sbc sdbus-cpp sddm sdl2-compat sdl3 seatd sed serd shaderc shadow shared-mime-info slang slurp smbclient snappy sndio solid sonnet sord sound-theme-freedesktop spdlog speex speexdsp spirv-tools sqlite sratom srt starship startup-notification steam sudo svt-av1 swappy swaylock-effects-git swaylock-effects-git-debug swww syndication syntax-highlighting systemd systemd-libs systemd-sysvcompat taglib talloc tar tdb tevent texinfo the-honkers-railway-launcher-bin-debug tinysparql tomlplusplus tpm2-tss tree-sitter tree-sitter-c tree-sitter-lua tree-sitter-markdown tree-sitter-query tree-sitter-vim tree-sitter-vimdoc tslib ttf-jetbrains-mono-nerd ttf-liberation ttf-nerd-fonts-symbols ttf-nerd-fonts-symbols-common tzdata udiskie udisks2 unibilium unrar unzip upower usbutils util-linux util-linux-libs v4l-utils vapoursynth vid.stab vim vim-runtime vkd3d vlc vmaf volume_key vulkan-headers vulkan-icd-loader vulkan-radeon vulkan-validation-layers waybar wayland wayland-protocols webkit2gtk-4.1 webrtc-audio-processing-1 wget which wine wireplumber wl-clipboard wlogout wlogout-debug woff2 wpa_supplicant x264 x265 xcb-imdkit xcb-proto xcb-util xcb-util-cursor xcb-util-errors xcb-util-image xcb-util-keysyms xcb-util-renderutil xcb-util-wm xcur2png xdg-dbus-proxy xdg-desktop-portal xdg-desktop-portal-gtk xdg-desktop-portal-hyprland xdg-user-dirs xdg-utils xf86-input-libinput xfce4-settings xfconf xkeyboard-config xorg-fonts-encodings xorg-server xorg-server-common xorg-setxkbmap xorg-xauth xorg-xhost xorg-xkbcomp xorg-xprop xorg-xrandr xorg-xset xorg-xwayland xorgproto xvidcore xxhash xz yay yay-debug yazi youtube-music-bin youtube-music-bin-debug yyjson zen-browser-bin zenity zeromq zimg zix zlib zopfli zoxide zram-generator zstd 
+clear
+ls
+clear
+sudo pacman -Syu
+clear
+pacman -Qq | parse
+pacman -Qq | parse -h
+pacman -Q | parse "{name} {version}"
+l
+l | parse "{permissions} {size} {user} {date modified} {name}"
+l | parse "{permissions} {size} {user} {day} {month} {hour} {name}"
+clear
+cat .config/hypr/hyprland.conf | parse ""
+cat .config/hypr/hyprland.conf | from csv
+clear
+fastfetch 
+yay -S whatscli
+whatscli
+yay -S nchat
+pacman -Rsn gperf
+sudo pacman -Rsn gperf
+clear
+fastfetch 
+fish
+exit
+clear
+sudo pacman -Rsn fish fisher
+clear
+ls
+fastfetch 
+clear
+fastfetch 
+cd .config/waybar
+ls
+udiskie
+clear
+nvim config.jsonc
+clear
+fastfetch 
+cd ~
+clear
+kill kitty 
+cd .config/dunst/
+ls
+nvim
+cd /
+ls
+cd usr/bin
+ls
+cd ..
+clear
+cd ~
+ls -a
+cd .local/
+ls
+cd share/bin/
+ls
+nvim wallbashdunst.sh
+clear
+cd .config/dunst/
+cd ~.config/dunst/
+cd ~/.config/dunst/
+clear
+ls
+nvim wallbash.conf
+kill dunst
+nvim dunst.conf
+cat dunstrc
+cd .config/dunst/
+ls
+clear
+ls
+kill dunst
+nvim dunstrc
+cd icons
+ls
+nvim arch.svg
+cd vol
+ls
+nvim vol-0.svg
+kitten icat vol-0.svg
+nvim vol-0.svg
+clear
+cd .local/share/bin
+ls
+ls
+cd Wallpapers/
+ls
+mv Downloads/HD-wallpaper-abstract-purple-mixed-abstract-purple.jpg Wallpapers/images
+ls
+cd Wallpapers/
+ls
+cd images
+ls
+rm HD-wallpaper-abstract-purple-mixed-abstract-purple.jpg
+cd ~
+mv Downloads/eda53c4bb33abb3d93d100eddc43410f.jpg Wallpapers/images/idk.jpg
+rm Wallpapers/images/idk.jpg
+clear
+kill kitty zen-bin
+fastfetch 
+pacman -Q | parse "{name} {version}"
+clear
+fastfetch 
+clear
+fastfetch 
+pipes.sh
+sudo pacman -Rsn android-sdk
+clear
+fastfetch 
+yay -Rsn android-sdk
+clear
+fastfetch 
+kill youtube-music kitty
+kill zen-bin
+yay -S whatscli
+lutris
+kitten icat nigger
+clear
+cd .config/waybar
+ls
+from
+style.css | parse "{idk}"
+cbonsai -il | split row ' '
+cbonsai -il | split column ' '
+clear
+cbonsai -il
+clear
+fzf -h
+fzf
+clear
+cd .config/nushell/
+ls
+ciao
+echo ciao
+clear
+as
+clear
+fastfetch 
+clear
+fastfetch 
+cd .config/nushell/
+cd ~/Coding/Rust/hello_world/
+clear
+cd ~
+clear
+cd Coding/Homework/
+cd ../Rust/hello_world/
+clear
+ls
+cd  ~
+cleart
+clear
+ls
+a.out
+cat a.out
+clear
+ls
+rm a.out
+cd go
+ls
+cd pkg
+ls
+cd mod
+ls
+cd ..
+cd ..\
+cd ..
+ls
+rm -rf go
+ls
+clear
+cd .config/fastfetch/
+nvim ../starship.toml
+clear
+ls
+sl
+nvim
+clear
+fastfetch 
+nvim
+clear
+fastfetch 
+cd ~/.config/
+nvim starship.toml
+clear
+cbonsai -il
+nvim starship.toml
+clear
+nvim
+clear
+nvim
+clear
+clear
+fastfetch 
+clear
+pwd
+pwd | parse "{homea} {ezekiel}"
+clear
+l
+ll
+ll | parse "{permissions} {size} {user} {date modified} {name}"
+ll | split row ' ' 
+ll | split column ' ' 
+clear
+ll
+clear
+lutris
+clear
+nvim
+clear
+nvim
+clear
+fastfetch 
+cd .config/waybar/
+ls
+nvim config.jsonc
+kill waybar cava
+cava
+cd .config/waybar/
+kill waybar cava
+nvim config.jsonc
+clear
+poweroff
+sudo pacman -S ergogen
+yay -S ergogen
+npm
+flatpak install ergogen
+sudo pacman -S nodejs
+ls
+cd Documents/
+ls
+cd `Marvel's Spider-Man 2/`
+ls
+cd ..
+clear
+ls
+mkdir customKeyboard
+cd customKeyboard/
+mkdir gae
+ls
+rm gae
+ls
+cd ..
+clear
+ls
+rm temp
+cs customKeyboard/
+cd customKeyboard/
+clear
+npm i -g ergogen
+sudo pacman -S node
+sudo pacman -Rsn nodejs
+sudo pacman -S npm
+clear
+npm i -g ergogen
+sudo npm i -g ergogen
+sudo npm fund i -g ergogen
+clear
+ls
+ergogen
+nvim customKeyboard.yaml
+ls
+ergogen input.yaml -o ./
+ergogen customKeyboard.yaml.yaml -o ./
+ergogen customKeyboard.yaml -o ./
+ls
+ls source/
+ls points/
+kitten icat points/demo.svg
+cd .config/waybar/
+ls
+nvim config.jsonc
+kill waybar cava
+sudo pacman -S bambustudio-bin
+yay -S bambustudio-bin
+clear
+bambu-studio 
+clear
+ls
+clear
+nvim customKeyboard.yaml
+clear
+ls
+ergogen customKeyboard.yaml -o ./
+clear
+ls
+cd source/
+ls
+cd ..
+kitten icat points/demo.svg
+cd Documents/customKeyboard/
+ls
+nvim customKeyboard.yaml
+customKeyboard.yaml | from yaml
+cat customKeyboard.yaml | from yaml
+clear
+obsidian 
+fastfetch 
+hi
+clear
+i3
+clear
+nivm 
+nvim
+clear
+zen-bin
+zen-browser
+clear
+poweroff
+cd Downloads/
+ls
+unzip `Sofle Choc Case With Threaded Screw Inserts - 5443846.zip`
+clear
+ls
+unzip -h
+clear
+ls
+cd files
+ls
+bambu-studio  SofleChocCaseLP-Left.stl
+clear
+...
+clear
+ls
+cd Documents/customKeyboard/
+ls
+ergogen customKeyboard.yaml -o ./
+cd source/
+ls
+cd ../points/
+ls
+kitten icat demo.svg
+cd ..
+;s
+ls
+cd outlines/
+ls
+kitten icat combo.dxf
+clear
+moe.launcher.the-honkers-railway-launcher 
+sudo pacman -Syu kicad
+sudo pacman -Syu --asdeps kicad-library kicad-library-3d
+kicad
+cd Documents/customKeyboard/
+nvim customKeyboard.yaml
+ergogen customKeyboard.yaml -o ./
+kicad
+cd Documents/customKeyboard/
+ls
+cd pcbs
+ls
+kicad tutorial.kicad_pcb
+kicad -v
+kicad --help
+kicad -h
+kicad
+sudo kicad
+cd Downloads/
+ls
+rm -rf *
+ls
+clear
+cd ../Documents/customKeyboard/KiCad/customKb/
+nvim cB.kicad.pro
+ls
+kicad
+mv cB.kicad.pro ./cB.kicad_pro
+cd Documents/customKeyboard/KiCad/customKb/
+ls
+moe.launcher.the-honkers-railway-launcher 
+cd .config/
+clear
+cd /
+ls
+clear
+ls
+cd nvme2
+cd media/nvme2
+clear
+ls
+cd Games
+ls
+df -h
+df -h | parse "{Filesystem} {Size} {Used {Avail} {Use%} {Mounted on}"
+df -h | parse "{Filesystem} {Size} {Used {Avail} {Use%} {Mounted} {on}"
+df -h | parse 
+df -h | parse -h
+df -h | split column
+df -h | split column ' '
+clear
+df -h | split row ' '
+clear
+df -h
+df -h | parse "{a} {b} {c}{d}{e}{f}{g}"
+df -h | from csv
+df -h | parse "{a} {b}"
+df -h | parse "{a} {b} {c}"
+df -h | parse "{a}  {b} {c}"
+df -h | parse "{a}   {b} {c}"
+df -h | parse "{a}   {b}  {c}"
+df -h | parse "{a}  {b}  {c}"
+df -h | parse "{a} {b}  {c}"
+df -h | parse "{a}{b}  {c}"
+df -h | parse "{a}{b}  {c} {d}"
+clear
+ls
+descrive winePrefixes2/
+describe winePrefixes2/
+describe nvim
+describe -h
+df -h | describe -d
+cd ~/Wallpapers/
+ls
+cd images
+ls
+kitten icat cherryBlossom.jpg | descrive -d
+kitten icat cherryBlossom.jpg | describe -d
+clear
+youtube-music | describe
+youtube-music | describe -d
+clear
+poweroff -h
+clear
+fastfetch 
+moe.launcher.the-honkers-railway-launcher 
+poweroff --help
+poweroff
+sudo pacman -S ghostty
+ls
+cd .config/ghostty
+ls
+ghostty
+sudo pacman -Rsn ghostty
+clear
+ls
+clear
+fastfetch 
+sudo pacman -Rsn nodejs
+sudo pacman -Rsn nodejs node-gyp nodejs-nopt npm semver
+pacman -Q | parse "{name} {version}"
+awk '/\[PACMAN\] installed/ {pkgs[$5]=1;} /removed/ {pkgs[$5]=0;} END {for (pkg in pkgs) { if (pkgs[pkg]==1) {print pkg;}}}' /var/log/pacman.log
+gawk '<\n>BEGIN { n = 0; }<\n>/\[PACMAN\] installed/ {pkgs[n] = $5; n++;}<\n>/removed/ {removed[$5] = 1;}<\n>END { for (i = 1; i <= n; i++) { if (pkgs[i] not in removed) print pkgs[i]; } }<\n>' /var/log/pacman.log
+where pacman.log
+where -h
+which
+which -h
+awk
+pacman -Qii
+clear
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - -
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | split row ' '
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | split column ' '
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - 
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {DayNumber} {Month} {year} {Time} {AM/PM} {CET} {Name}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {DayNumber} {Month} {Year} {Time} {AM/PM} {CET} {Name}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {B}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {B} {C} {D} {E}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {B} {C} {D} {E} {F} {G}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {B} {C} {D} {E} {F} {G} {H} {J}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {B} {C} {D} {E} {F} {G} {H}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {DayNum} {Month} {Year} {Time} {AM/PM} {CET} {Name}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {DayNum} {Month} {Year} {Time} {AM-PM} {CET} {Name}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {DayNum} {Month} {Year} {Time} {AM-PM} {CET} {vers}"
+pacman -Qii | grep -iE 'name[ ]+:|install date' | sed 's/.*: //' | tac | paste -d " " - - | parse "{DayName} {DayNum} {Month} {Year} {Time} {AMPM} {CET} {Name}"
+cd .config/nushell/
+ls
+nvim config.jsonc
+nvim config.nu
+lsdp
+lspd
+reboot
+clear
+ls
+mkdir Scripts
+ls
+cd Scripts/
+ls
+chmod +x archNuLsDate.sh
+./archNuLsDate.sh
+clear
+if -h
+./archNuLsDate.sh
+clear
+./archNuLsDate.sh
+./archNuLsDate.sh a
+cd /usr/bin
+ls
+ls *.sh
+cd Scripts/
+ls
+./archNuLsDate.sh
+Scripts/archNuLsDate.sh
+clear
+Scripts/archNuLsDate.sh
+cd .config/nushell/
+nvim config.nu
+lspd
+grep --help
+lspd
+nvim archNuLsDate.sh
+clear
+lspd
+cd Scripts/
+nvim archNuLsDate.sh
+clear
+lspd
+lspd | Year > 2025
+clear
+lspd
+clear
+lspd
+clear
+lspd | sort-by time
+lspd | sort-by Time
+lspd | sort-by name
+clear
+fastfetch 
+clear
+lspd
+clear
+ls
+cd Coding/Homework/
+nvim
+cd  ..
+ls
+cd Rust/hello_world/
+ls
+cd hello_cargo/
+ls
+cd ~/.config/
+cd Coding/Rust/hello_world/hello_cargo/
+clear
+nvim
+la
+le
+clear
+l
+clear
+lh
+lss
+clear
+lss
+ls -h
+ls --help
+clear
+parse -h
+clear
+cd ~/Documents/customKeyboard/
+ls
+cat customKeyboard.yaml | from yaml
+clear
+clear
+ls
+cd pcbs
+clear
+cd ~
+clear
+main
+clear
+math min
+clear
+history
+moe.launcher.the-honkers-railway-launcher 
+ls
+cd ~
+clear
+ls
+deepseek
+cd Games
+ls
+cd Games
+ls
+cd /media/nvme2/Games/
+ls
+mv * /media/nvme2/Games/
+ls
+mv * /media/nvme2/Games/
+ls
+cd winePrefixes/
+ls
+mv * /media/nvme2/Games/winePrefixes2/
+dolphin
+dolphin ./
+dolphin ./
+clear
+ls
+rename winePrefixes2 winePrefixes
+rename -h
+clear
+ls
+mv winePrefixes2 winePrefixes
+ls
+clear
+lutris
+df -h 
+df --help
+df -hl
+clear
+sudo pacman -S ollama
+ollama --version
+systemctl is-active ollama.service
+sudo systemctl start ollama.service
+systemctl is-active ollama.service
+cd .config/nushell/
+cd Scripts/
+nvim
+sudo systemctl stop ollama.service
+systemctl is-active ollama.service
+nvim ollamaActivate.sh
+ls
+chmod +x ollamaActivate.sh
+ls
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+echo systemctl is-active ollama.service
+echo "systemctl is-active ollama.service"
+echo $systemctl is-active ollama.service
+echo -e systemctl is-active ollama.service
+systemctl is-active ollama.service > idk.txt
+systemctl is-active ollama.service >> idk.txt
+ls
+systemctl is-active ollama.service | idk.txt
+clear
+ls
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+if --gelp
+if --help
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+grep --help
+clear
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+systemctl is-active ollama.service 
+./ollamaActivate.sh
+systemctl is-active ollama.service 
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+systemctl is-active ollama.service 
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+sudo ./ollamaActivate.sh
+systemctl is-active ollama.service 
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+clear
+cd Scripts/
+ls
+echo ciao
+nvim ollamaActivate.sh
+echo ciao
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+systemctl --help
+systemctl is-active ollama.service
+nvim ollamaActivate.sh
+./ollamaActivate.sh
+rm ollamaActivate.sh
+nvim config.nu
+ollamaOn
+clear
+ollamaOn
+systemctl is-active ollama.service
+ollamaOff
+cd .config/nushell/
+nvim config.nu
+clear
+ollamaOff
+systemctl is-active ollama.service
+kill kitty zen-bin
+fastfetch 
+systemctl is-active ollama.service
+clear
+ollama run deepseek-r1:8b
+ollamaOn
+ls
+cd Documents/
+ollama run deepseek-r1:8b
+clear
+ollama run deepseek-r1:8b
+clear
+fastfetch 
+clear
+ollamaOff
+ollamaOn
+ls
+ollama run deepseek-r1:14b
+clear
+fzf
+ollamaOff
+ollama list
+ollamaOn
+ollama list
+ollamaOff
+clear
+ollamaOn
+ollama run deepseek-r1:8b
+clear
+ollamaOff
+moe.launcher.the-honkers-railway-launcher 
+systemctl list
+systemctl list-jobs
+ollamaOn
+systemctl list-jobs
+clear
+ollama run deepseek-r1:14b
+clear
+ollamaOff
+ollamaOn
+ollama run deepseek-r1:14b
+clear
+ollamaOff
+ollamaOn
+ollama run deepseek-r1:14b
+clear
+ollamaOff
+clear
+poweroff
+ls
+clear
+cd Documents/customKeyboard/KiCad/customKb/
+ls
+cd Documents/customKeyboard/
+ls
+nvim cB.kicad.pro
+cd cB
+ls
+nvim
+nvim cB.kicad_pcb
+ergogen .
+cd Documents/customKeyboard/
+ls
+ergogen .
+cd pcbs
+ls
+nvim tutorial.kicad_pcb
+cd Documents/customKeyboard/KiCad/customKb/cB/
+ls
+rm cB.kicad_pcb
+ls -s ~/Documents/customKeyboard/pcbs/tutorial.kicad_pcb cB.kicad_pcb
+ln -s ~/Documents/customKeyboard/pcbs/tutorial.kicad_pcb cB.kicad_pcb
+cd ..
+ls
+cd Documents/customKeyboard/
+ergogen customKeyboard.yaml 
+ergogen customKeyboard.yaml -o ./
+nvim customKeyboard.yaml
+ls
+ergogen customKeyboard.yaml
+nvim customKeyboard.yaml
+clear
+ls
+cd pcbs
+ls
+cd Documents/customKeyboard/KiCad/customKb/cB/
+ls
+nvim cb.kicad_pcb
+cat cb.kicad_pcb
+nvim customKeyboard.yaml
+ergogen customKeyboard.yaml
+nvim tutorial.kicad_pcb
+clear
+cd Documents/customKeyboard/KiCad/customKb/cB/
+ls
+cd /home/ezekiel/Documents/customKeyboard/pcbs/tutorial.kicad_pcb
+cd /home/ezekiel/Documents/customKeyboard/pcbs/
+ls
+lh
+l
+nvim tutorial.kicad_pro
+kicad
+clear
+l
+rm tutorial.kicad_pcb
+ls
+l
+clear
+l
+cd ..
+ls
+cd pcbs
+ls
+cd tutorial-backups/
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf pcbs
+ls
+nvim customKeyboard.yaml
+ls
+ergogen customKeyboard.yaml
+ls
+nvim customKeyboard.yaml
+ergogen customKeyboard.yaml
+ls
+cd output
+ls
+cd pcbs
+ls
+cd KiCad/customKb/cB/
+ls
+rm *
+rm -rf *
+ls
+cd ..
+ls
+rm -rf * !cB
+ls
+nvim cB.kicad_pro
+ls
+cd cB
+ls
+rm cB.kicad_pcb
+ln -s ~/Documents/customKeyboard/output/pcbs/tutorial.kicad_pcb cB.kicad_pcb
+clear
+cd ...
+clear
+ls
+ls
+cd ..
+cd ezekiel/
+cd Documents/customKeyboard/
+ls
+ergogen customKeyboard.yaml
+kill kitty kicad
+sudo pacman -S superfiles
+cd Documents/customKeyboard/
+ls
+killall kitty kicad
+sudo pacman -Rsn yazi
+clear
+yay -S superfile
+superfile
+yay -Syu
+sudo pacman -Syu
+yay -Syu
+clear
+reboot
+fastfetch 
+kill kitty youtube-music
+poweroff
+moe.launcher.the-honkers-railway-launcher 
+clear
+ollamaOn
+ollama run deepseek-r1:14b
+ollamaOff
+clear
+cava
+df -h
+btop
+cd Games
+ls
+cd /media/nvme2/Games/
+ls
+stf
+filelight 
+nvim .config/starship.toml
+clear
+mission
+mission-center
+clear
+btop
+missioncenter
+moe.launcher.the-honkers-railway-launcher 
+clear
+bto
+cd /media/nvme2/Games/
+ls
+clear
+cd ~
+clear
+cd .config/waybar/
+ls
+nvim config.jsonc
+kill waybar cava
+ollamaOn
+ollama run deepseek-r1:14b
+ollamaOff
+ollamaOn
+clear
+ollama --version
+docker
+docker ps
+ollama run deepseek-r1:14b
+ollamaOff
+clear
+poweroff
+cd Documents/customKeyboard/
+ls
+clear
+cd Documents/customKeyboard/
+clear
+ollamaOn
+ollama run deepseek-r1:14b
+ollamaOff
+clear
+cd .config/waybar/
+ls
+clea
+clear
+fastfetch 
+kill kitty kicad youtube-music zen-browser
+ls
+cd .config/waybar/
+cd ...
+clear
+ls
+cd Coding/Rust/hello_world/hello_cargo/
+poweroff --help
+poweroff
+fastfetch 
+lspd
+cd .config/kitty/
+nvim theme.conf
+clear
+../waybar/
+ls
+kill waybar cava
+nvim config.jsonc
+kill waybar cava
+kill udiskie
+kill waybar cava
+ollamaOn
+ollama run deepseek-r1:14b
+clear
+ollamaOff
+clear
+reboot
+moe.launcher.the-honkers-railway-launcher 
+clear
+#!/usr/bin/env sh<\n><\n><\n>#// Check if wlogout is already running<\n><\n>if pgrep -x "wlogout" > /dev/null<\n>then<\n>    pkill -x "wlogout"<\n>    exit 0<\n>fi<\n><\n><\n>#// set file variables<\n><\n>scrDir=`dirname "$(realpath "$0")"`<\n>source $scrDir/globalcontrol.sh<\n>[ -z "${1}" ] || wlogoutStyle="${1}"<\n>wLayout="${confDir}/wlogout/layout_${wlogoutStyle}"<\n>wlTmplt="${confDir}/wlogout/style_${wlogoutStyle}.css"<\n><\n>if [ ! -f "${wLayout}" ] || [ ! -f "${wlTmplt}" ] ; then<\n>    echo "ERROR: Config ${wlogoutStyle} not found..."<\n>    wlogoutStyle=1<\n>    wLayout="${confDir}/wlogout/layout_${wlogoutStyle}"<\n>    wlTmplt="${confDir}/wlogout/style_${wlogoutStyle}.css"<\n>fi<\n><\n><\n>#// detect monitor res<\n><\n>x_mon=$(hyprctl -j monitors | jq '.[] | select(.focused==true) | .width')<\n>y_mon=$(hyprctl -j monitors | jq '.[] | select(.focused==true) | .height')<\n>hypr_scale=$(hyprctl -j monitors | jq '.[] | select (.focused == true) | .scale' | sed 's/\.//')<\n><\n><\n>#// scale config layout and style<\n><\n>case "${wlogoutStyle}" in<\n>    1)  wlColms=6<\n>        export mgn=$(( y_mon * 28 / hypr_scale ))<\n>        export hvr=$(( y_mon * 23 / hypr_scale )) ;;<\n>    2)  wlColms=2<\n>        export x_mgn=$(( x_mon * 35 / hypr_scale ))<\n>        export y_mgn=$(( y_mon * 25 / hypr_scale ))<\n>        export x_hvr=$(( x_mon * 32 / hypr_scale ))<\n>        export y_hvr=$(( y_mon * 20 / hypr_scale )) ;;<\n>esac<\n><\n><\n>#// scale font size<\n><\n>export fntSize=$(( y_mon * 2 / 100 ))<\n><\n><\n>#// detect wallpaper brightness<\n><\n>[ -f "${cacheDir}/wall.dcol" ] && source "${cacheDir}/wall.dcol"<\n>[ "${dcol_mode}" == "dark" ] && export BtnCol="white" || export BtnCol="black"<\n><\n><\n>#// eval hypr border radius<\n><\n>export active_rad=$(( hypr_border * 5 ))<\n>export button_rad=$(( hypr_border * 8 ))<\n><\n><\n>#// eval config files<\n><\n>wlStyle="$(envsubst < $wlTmplt)"<\n><\n><\n>#// launch wlogout<\n><\n>wlogout -b "${wlColms}" -c 0 -r 0 -m 0 --layout "${wLayout}" --css <(echo "${wlStyle}") --protocol layer-shell
+clear
+cd Downloads/
+ls
+tar --help
+tar -x Bibata-Original-2dbad-v1.0.2-x11.tar.gz
+tar -xf Bibata-Original-2dbad-v1.0.2-x11.tar.gz
+ls
+cd ..
+ls
+cd .local/share/icons/
+ls
+cd /
+ls
+cd usr/share/icons/
+ls
+sudo mv ~/Downloads/Bibata-2dbad ./
+ls
+cd .config/hypr
+nvim userprefs.conf
+lutris
+reboot
+cd .config/hypr
+ls
+nvim userprefs.conf
+nvim hyprland.cong
+nvim hyprland.conf
+cd /usr/share/icons
+ls
+cd Bibata-2dbad/
+ls
+cd /usr/share/icons/
+ls
+cd Bibata-Modern-Ice/
+nvim index.theme
+ls
+nvim cursor.theme
+cd hyprcursors/
+ls
+..
+clear
+ls
+nvim index.theme
+clear
+ls
+nvim README.txt
+ls
+hyprcursor
+hyprcursor-util -x
+hyprcursor-util -x ./
+sudo hyprcursor-util -x ./
+ls
+cd cursors
+ls
+cd ..
+sudo hyprcursor-util -x ./hyprcursors
+sudo hyprcursor-util -x ./ ./hyprcursors
+sudo hyprcursor-util -x ./
+hyprcursor-util --help
+hyprcursor-util -h
+cd ~/Downloads/
+ls
+tar -xf Bibata-Original-2dbad-v1.0.2-x11.tar.gz
+ls
+hyprcursor-util
+hyprcursor-util --help
+hyprcursor-util -help
+hyprcursor-util -h
+whatscli
+clear
+ls
+hyprcursor-util -x Bibata-2dbad
+ls
+cd extracted_Bibata-2dbad/
+ls
+nvim manifest.hl
+mv * ../Bibata-2dbad/
+cd ../Bibata-2dbad/
+ls
+sudo rm /usr/share/icons/Bibata-2dbad
+sudo rm -rf /usr/share/icons/Bibata-2dbad
+..
+ls
+mv Bibata-2dbad/ /usr/share/icons/
+sudo mv Bibata-2dbad /usr/share/icons/
+cd /usr/share/icons/
+..
+clear
+ls
+clear
+ls
+Bibata-Modern-Ice/
+cd Bibata-2dbad/
+clear
+clear
+ls
+ls
+nvim cursor.theme
+nvim index.theme
+cd hyprcursors/
+ls
+..
+clear
+nvim cursor.theme
+cd hyprcursors/
+ls
+cd wayland-cursor/
+ls
+cd ..
+clear
+ls
+cd vertical-text/
+ls
+kitten icat vertical-text_000.png
+:q
+clear
+..
+clear
+ls
+cd ..
+ls
+ls
+cd ~/Downloads/
+ls
+mv hyprcursors manifest.hl -t ~/Downloads/extracted_Bibata-2dbad/
+mv -t ~/Downloads/extracted_Bibata-2dbad/ hyprcursors manifest.hl
+clear
+mv --help
+clear
+mv hyprcursors ~/Downloads/extracted_Bibata-2dbad/
+mv manifest.hl ~/Downloads/extracted_Bibata-2dbad/
+clear
+ls
+cd extracted_Bibata-2dbad/
+ls
+nvim manifest.hl
+ls
+cd ..
+clear
+ls
+hyprcursor-util --create extracted_Bibata-2dbad
+ls
+cd extracted_Bibata-2dbad/
+ls
+clear
+ls
+nvim index.theme
+nvim cursor.theme]
+nvim cursor.theme
+cat index.theme
+cat cursor.theme
+nvim cursor.theme
+clear
+nvim manifest.hl
+cd ..
+clear
+ls
+rm `theme_Extracted Theme/`
+rm -rf `theme_Extracted Theme`
+ls
+hyprcursor-util --create extracted_Bibata-2dbad
+clear
+ls
+cd theme_Bibata-Ezekiel-Custom/
+ls
+cd hyprcursors/
+ls
+cd ..
+clear
+ls
+ls
+sudo cp * /usr/share/icons/Bibata-2dbad/
+sudo cp -r * /usr/share/icons/Bibata-2dbad/
+cd ..
+ls
+mv Bibata-2dbad Bibata-Ezekiel_Custom
+sudo mv Bibata-2dbad Bibata-Ezekiel_Custom
+clear
+ls
+sudo mv Bibata-Ezekiel_Custom Bibata-Ezekiel-Custom
+clear
+clear
+ls
+cd Bibata-Ezekiel-Custom/
+ls
+nvim manifest.hl
+cd /usr/share/icons/
+ls
+cd Bibata-Modern-Ice/
+ls
+cat manifest.hl
+cat index.theme
+cat cursor.theme
+cat manifest.hl
+cat cursor.theme
+cat index.theme
+cat VERSION
+rm VERSION
+rm README.txt
+ls
+rm LICENSE
+clear
+ls
+clear
+ls
+..
+ls
+cd default/
+ls
+nvim index.theme
+sudo nvim index.theme
+reboot
+cd .config/hypr
+ls
+hyprctl
+hyprctl Bibata-Ezekiel-Custom
+hyprctl Bibata-Ezekiel-Custom setcursor
+hyprctl Bibata-Ezekiel-Custom setcursor 22
+hyprctl setcursor Bibata-Ezekiel-Custom
+hyprctl setcursor Bibata-Ezekiel-Custom 22
+cd ls
+clear
+ls
+cd go
+ls
+cd pkg
+ls
+cd mod
+ls
+cd github.com/
+ls
+cd ..
+cd .
+..
+...
+ls
+rm go
+rm -rf go
+clear
+ls
+cd Wallpapers/
+ls
+cd scripts/
+ls
+nvim lockscreen.conf
+clear
+cd ~/Downloads/
+ls
+rm -rf *
+clear
+ls
+poweroff
+cd Downloads/
+clear
+ls
+tar -xf Bibata-Original-249e9-v1.0.2-x11.tar.gz
+ls
+mv Bibata-249e9 Bibata-Ezekiel
+hyprcursor-util --extract Bibata-Ezekiel/
+clear
+ls
+cd Bibata-Ezekiel/
+ls
+rm LICENSE README.txt VERSION
+clear
+ls
+nvim index.theme
+nvim  cursor.theme
+cat cursor.theme index.theme
+..
+cd extracted_Bibata-Ezekiel/
+ls
+nvim manifest.hl
+..
+clear
+hyprcursor-util --create extracted_Bibata-Ezekiel
+clear
+ls
+mv theme_Bibata-Ezekiel/* Bibata-Ezekiel/
+cd Bibata-Ezekiel/
+ls
+..
+sudo mv Bibata-Ezekiel /usr/share/icons/
+clear
+../.config/hypr/
+nvim userprefs.conf
+clear
+cd ~/Downloads/
+ls
+rm -rf *
+clear
+cd ~
+clear
+fastfetch 
+http
+http get 'https://www.youtube.com/watch?v=Z8WKR0VHfJw'
+clear
+sudo pacman -Syu
+flatpak update
+clear
+reboot
+lutris
+nvim
+moe.launcher.the-honkers-railway-launcher 
+clear
+cd Games
+clear
+cd /media/nvme2/Games/
+ls
+cd shadPS4/
+ls
+EDITOR=nvim
+$EDITOR=nvim
+EDITOR
+clear
+export
+.bashrc
+clear
+path .bashrc
+path basename .bashrc
+path dirname .bashrc
+ollamaOn
+clear
+ls -a
+nvim .bashrc
+ollama run deepseek-r1:14b
+ollamaOff
+clear
+ls
+cd Games
+ls
+.
+..
+clear
+rm -rf Games
+ls
+nvim
+nvim .bashrc
+spf
+cd
+clear
+ls
+cd .config/nvim/
+ls
+cd lua
+ls
+cd plugins/
+ls
+rm deepseek.lua
+rm yazi.lua
+reboot
+EDITOR
+spf
+clear
+nvim .config/starship.toml
+clear
+nvim .bashrc
+cd .config/nvim/
+ls
+nvim
+clear
+cd /media/nvme2/Games/
+ls
+cd winePrefixes/
+ls
+cd zenless-zone-zero/
+ls
+spf
+fzf
+telescope
+scope
+clear
+cd /media/nvme2/Games/winePrefixes/zenless-zone-zero/
+clear
+ls
+nvim
+.../HoYoPlay/
+ls
+nvim
+launcher.exe
+./launcher.exe
+btop
+poweroff
+sudo pacman -S ghostty
+clear
+ghostty
+cd .config/ghostty
+clear
+ls
+ghostty
+clear
+nvim config
+ghostty +list-fonts
+cd .config/ghostty
+clear
+ls
+nvim config
+kitty list-fonts
+cd .config/kitty/
+clear
+ls
+ghostty
+nvim config
+ghostty
+nvim config
+ghostty
+nvim config
+cd ~
+clear
+ghostty
+nvim config
+ghostty
+nvim config
+ghostty
+nvim config
+ghostty
+nvim config
+ghostty
+nvim config
+ghostty
+nvim config
+ghostty
+nvim config
+nvim .config/starship.toml
+nvim
+ghostty
+ghostty
+clear
+sudo pacman -Rsn ghostty
+cd .config/
+cd .config
+..
+rm -rf ghostty
+clear
+poweroff
+sudo pacman -S proton-vpn-gtk
+sudo pacman -S proton-vpn-gtk-app
+clear
+cd /etc/openvpn/client/
+sudo cd /etc/openvpn/client/
+cd -s /etc/openvpn/client/
+cd -s /etc/
+cd /etc/
+cd openvpn/
+ls
+cd client/
+clear
+ls
+cd -h
+clear
+ls
+ls client
+sudo ls client
+clear
+protonvpn-app 
+cd client/
+clear
+cd client
+fastfetch 
+sudo pacman -Rsn protonvpn-app 
+sudo pacman -Rsn proton-vpn-gtk-app
+clear
+fastfetch 
+clear
+clear
+ls Downloads/
+cp ~/Downloads/* ./client/
+sudo cp ~/Downloads/* ./client/
+clear
+ls
+sudo cd client/
+sudo -s
+clear
+ls
+clear
+sudo pacman -S openvpn
+openvpn
+clear
+sudo pacman -S network-manager-openvpn-gnome
+sudo pacman -S network-manager-openvpn
+sudo pacman -S networkmanager-openvpn
+sudo -s
+clear
+l
+openvpn /etc/openvpn/client/nl-free-157.protonvpn.udp.ovpn
+velar
+clear
+sudo pacman -S protonvpn-cli-community
+velar
+clear
+sudo -s
+cd ~/Downloads/
+clea
+clear
+ls
+nvim nl-free-139.protonvpn.udp.ovpn
+clear
+ls
+mv * ~/Documents/OpenvpnConnections
+mv * ~/Documents/OpenvpnConnections/
+mkdir ~/Documents/OpenvpnConfigs && mv * ~/Documents/OpenvpnConnections/
+mkdir ~/Documents/OpenvpnConfigs ; mv * ~/Documents/OpenvpnConnections/
+mkdir ~/Documents/OpenvpnConfigs ; mv * ~/Documents/OpenvpnConfigs/
+clear
+ls
+cd ~/Documents/OpenvpnConfigs/
+clear
+ls
+nvim usernameAndPw.txt
+clear
+ls
+clear
+sudo -s
+cd ~
+clear
+cd Documents/
+ls
+cd .config/nvim/
+ls
+cd lua/plugins/
+ls
+avante.lua
+nvim avante.lua
+nvim DeepseekApiKey.txt
+ls
+mkdir .txts
+mv *.txt .txts/
+clear
+ls
+cd ..
+ls
+cd .txts
+cd Documents/
+ls
+spf
+mv .txts txtFiles
+clear
+ls
+cd `Marvel's Spider-Man 2/`
+ls
+cd ..
+clear
+ls
+cd /home/ezekiel/.local/share/nvim/lazy/
+ls
+cd copilot.lua/
+ls
+nvim
+clear
+cd ~/Coding/Rust/hello_world/hello_cargo/
+ls
+nvim Cargo.toml
+cd src/
+ls
+nvim main.rs
+nvim
+clear
+cd ~/.config/nvim
+cd lua/plugins/
+ls
+cat Documents/txtFiles/DeepseekApiKey.txt
+nvim codeCompanion.lua
+clear
+nvim
+cd ~/Coding/Rust/hello_world/hello_cargo/
+cd src/
+nvim 
+cat Documents/txtFiles/DeepseekApiKey.txt
+nvim
+clear
+cd ~/.config/waybar/
+nvim style.css
+clear
+cd ~/.config/hypr/
+cat Documents/txtFiles/DeepseekApiKey.txt
+nvim userprefs.conf
+clear
+ls
+nvim $srcPath/volumecontrol.sh
+nvim $srcPath/volumecontrol
+$srcPath/volumecontrol.sh
+scrPath
+cd .local/share/bin
+ls
+nvim volumecontrol.sh
+clear
+nvim
+cd ~/.config/nvim
+ls
+cd lua/plugins/
+ls
+nvim blinkAvante.lua
+clear
+nvim
+nvim blinkAvante.lua
+nvim
+ls
+rm blinkAvante.lua
+clear
+nvim
+ls
+avante.lua
+nvim avante.lua
+cat Documents/txtFiles/DeepseekApiKey.txt
+clear
+nvim avante.lua
+cat Documents/txtFiles/DeepseekApiKey.txt
+nvim avante.lua
+nvim
+clear
+ls
+rm avante.lua
+nvim
+nvim codeCompanion.lua
+nvim
+ls
+cd ..
+cd config/
+ls
+nvim
+cd /home/ezekiel/.local/share/nvim/lazy/lualine.nvim<\n>
+ls
+cd lua/lualine/components/
+ls
+cd ..
+...
+ls
+cd examples/
+ls
+cat ../README.md
+clear
+nvim ../README.md
+cd ..
+clear
+ls
+nvim THEMES.md
+cd scripts/
+ls
+cd ..
+ls
+cd doc/
+ls
+nvim lualine.txt
+clear
+ls
+cd ..
+ls
+nvim Makefile
+cd ..
+clear
+ls
+cd ..
+ls
+cd ~/.config/nvim
+ls
+cd lua/config/
+ls
+rm deepseekconf.lua
+nvim lualine.lua
+nvim
+nvim lualine.lua
+clear
+ls
+rm lualine.lua
+clear
+cd Coding/Rust/hello_world/hello_cargo/
+lutris 
+sudo pacman -S kitty-dashboard
+yay -S kitty-dashboard
+cd .config/hypr/
+nvim keybindings.conf
+poweroff
+yay -S kittypanel
+yay -S kittydashboard
+ls
+nvim panel.sh
+chmod +x panel.sh
+./panel.sh
+nvim panel.sh
+sudo pacman -S brightnessctl
+sudo pacman -S pactl
+sudo pacman -S iwconfig
+./panel.sh
+clear
+ls
+rm panel.sh
+clear
+pacman -Rsn brightnessctl
+sudo pacman -Rsn brightnessctl
+clear
+ls
+fastfetch 
+cd .config/kitty/
+nvim kitty.conf
+sudo -s
+clear
+cd .config/hypr
+ls
+nvim monitors.conf
+gamma-control
+nvim hyprland.conf
+clear
+cd .config/nvim/
+../nvim
+clear
+ls
+nvim
+cd /home/ezekiel/.local/share/nvim/lazy/LazyVim
+ls
+cd lua/lazyvim/plugins/
+ls
+ls extras/
+nvim
+cd ..
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+cat README.md
+cd ~/.config/nvim
+ls
+cd lua/plugins/
+nvim disableLualine.lua
+clear
+ls
+nvim colorizer.lua
+nvim
+nvim .config/kitty/theme.conf
+clear
+nvim termcolors.lua
+nvim
+ls
+rm termcolors.lua
+clear
+ls
+cd ..
+celar
+cd config/
+ls
+cd .config/kitty/
+ls
+nvim colorOptions.lua
+nvim lazy.lua
+nvim colorOptions.lua
+nvim lazy.lua
+nvim idk.lua
+./idk.lua
+rm idk.lua
+clear
+nvim
+ls
+cat options.lua
+cat lazy.lua
+nvim lazy.lua
+clear
+ls
+nvim colorOptions.lua
+ls
+rm colorOptions.lua
+cd ../plugins/
+ls
+nvim colorScheme.lua
+ls
+clear
+ls
+nvim windline.lua
+nvim
+ls
+nvim
+cd /home/ezekiel/.local/share/nvim/lazy/windline.nvim
+ls
+cd lua
+ls
+cd windline/
+ls
+cd ..
+clear
+cd ..
+ls
+nvim style.toml
+nvim README.md
+cd tests/
+ls
+nvim benchmark.lua
+clear
+cd ..
+ls
+nvim Makefile
+cd lua
+ls
+cd windline/
+ls
+nvim init.lua
+clear
+ls
+nvim
+nvim windline.lua
+nvim test
+mv test test.lua
+nvim
+ls
+rm windline.lua
+nvim
+nvim example.lua
+rm test.lua
+clear
+nvim
+nvim disableLualine.lua
+nvim
+rm disableLualine.lua
+clear
+...
+cd
+clear
+cd /home/ezekiel/.local/share/nvim/lazy/lualine.nvim
+ls
+cd lua
+ls
+cd lualine
+ls
+cd ..
+..
+clear
+ls
+nvim
+clear
+l
+/
+l
+clear
+pacman -Qet
+sudo pacman -Rsn nordzy-hyprcursors
+clear
+fastfetch 
+sudo pacman -Rsn bambu-studio 
+pacman -Qet
+sudo pacman -Rsn bambustudio-bin
+sudo pacman -Rsn kicad
+sudo pacman -Rsn npm
+clear
+ls
+clear
+pipes.sh
+btop
+--utf-force btop
+clear
+btop
+clear
+fastfetch 
+ollamaOn
+ollama run deepseek-r1:14b
+clear
+ollamaOff
+poweroff
+fastfetch 
+clear
+cd .config/nvim/
+cd lua/plugins/
+nvim windline.lua
+nvim
+nvim windline.lua
+nvim
+ls
+nvim lualineoff.lua
+nvim
+clear
+cd /home/ezekiel/.local/share/nvim/lazy/lualine.nvim
+cd ..
+clear
+ls
+cd windline.nvim/
+ls
+cd lua/wlsample/
+ls
+cd ..
+ls
+cd scripts/
+ls
+cd ..
+clear
+ls
+cd lua/windline/
+ls
+nvim
+cd .config/nvim/lua/plugins/
+ls
+cd /home/ezekiel/.local/share/nvim/lazy/windline.nvim/lua/wlsample/
+ls
+nvim setupWindline.lua
+nvim
+nvim setupWindline.lua
+nvim
+nvim setupWindline.lua
+nvim
+nvim setupWindline.lua
+nvim
+rm setupWindline.lua
+cd .config/nvim/lua/plugins/
+ls
+nvim windline.lua
+nvim windline.lua]
+nvim windline.lua
+clear
+ls
+rm windline.lua
+nvim lualineoff.lua
+nvim
+clear
+cd ~/.local/share/nvim
+ls
+cd lazy/lualine.nvim/
+ls
+cd examples/
+ls
+cd ..
+clear
+ls
+cd lua
+ls
+cd lualine/
+ls
+nvim component.lua
+nvim
+nvim component.lua
+clear
+ls
+cd ..
+clear
+ls
+cd ..
+ls
+cd ~/.config/nvim/lua/plugins
+rm lualineoff.lua
+clear
+nvim config.lua
+nvim
+clear
+nvim component.lua
+clear
+nvim config.lua
+clear
+nvim
+poweroff
+sudo pacman -Syu
+vim
+clear
+cd .config/nvim/lua/config/
+ls
+flatpak update
+reboot
+fastfetch 
+clear
+fastfetch 
+clear
+fastfetch 
+kill kitty youtube-music
+cd .local/share/
+ls
+cd nvim
+ls
+cd lazy
+ls
+cd catppuccin/
+ls
+cd colors
+ls
+nvim catppuccin-mocha.vim
+nivm catppuccin.vim
+nvim catppuccin.vim
+cd ..
+nvim
+cd ../lualine.nvim/
+ls
+clear
+ls
+cd lua
+ls
+cd lualine
+ls
+nvim highlight.lua
+clear
+ls
+cd components/
+ls
+nvim arch.lua
+cd ..
+nvim config.lua
+clear
+ls
+cd themes
+ls
+cd .config/kitty/
+nvim 16color.lua
+nvim
+cd ..
+clear
+ls
+nvim config.lua
+cd themes
+ls
+cd ..
+nvim config.lua
+cd .config/nvim/lua/config/
+ls
+cd ../plugins/
+ls
+nvim idk.lua
+nvim
+nvim idk.lua
+clear
+ls
+nvim rustceanvim.lua
+rm idk.lua
+nvim rustceanvim.lua
+clear
+cd .config/waybar/
+ls
+nvim config.jsonc
+kill waybar cava
+fastfetch 
+ls
+cd /
+clear
+ls
+cd ~
+lutris
+cd /media/nvme2
+ls
+cd Games
+ls
+cd shadPS4/
+ls
+Shadps4-qt.AppImage  
+moe.launcher.the-honkers-railway-launcher 
+fastfetch 
+ls
+bloodborne viola
+power off
+\poweroff
+poweroff
+sudo pacman -Syu
+reboot
+df -h
+ollamaOn
+fastfetch 
+nvim .config/starship.toml
+cd .config/waybar/
+nvim config.jsonc
+nvim style.css
+clear
+cbonsai -il
+cd ~
+clear
+ls
+cd Coding/Rust/hello_world/hello_cargo/
+ls
+ollama run deepseek-r1:14b
+ollamaOff
+clear
+lutris
+poweroff
+nvim
+moe.launcher.the-honkers-railway-launcher 
+clear
+cd /media/nvme2/Games/
+ls
+sudo pacman -Syu
+clear
+df --hrlp
+df --help
+df -hP
+df -h
+df -h | from csv
+df -h | parse "{a}{b}  {c} {d} {e}{f}"
+df -h | parse "{a}{b}  {c} {d} {e}{f}" --collapse-empty
+df -h | split column " "
+df -h | split row " " --collapse-empty
+df -h | split column " " --collapse-empty
+df -h | from tsv
+split row --help
+df -h | split column " " --collapse-empty -n 5
+df -h | split row " "
+df -h | split row ""
+df -h | from ssv
+df -hF | from ssv
+df -hP | from ssv
+df -hP | lines
+df -hP | lines | skip 0 
+df -hP | lines | skip 1
+df -hP | lines | skip 1 | parse "{a} {b} {c} {d} {e} {f}"
+df -hP | lines | skip 1 | parse "{a}{b} {c} {d} {e} {f}"
+df -hP | lines | skip 1 | parse "{a} {b}{c} {d} {e} {f}"
+df -hP | lines | skip 1 | each
+df -hP | lines | skip 1 
+df -hP | lines | skip 1 | split row "  "
+df -hP | lines | skip 1 | split row " "
+df -hP | lines | skip 1 | split column " "
+df -hP | lines | skip 1 | split column " " -n 5
+df -hP | lines | skip 1 | split column "M" -n 5
+df -hP | lines | skip 1 | split column "M""G""K"
+df -hP | lines | skip 1 | split column "M ""G ""K "
+df -hP | lines | skip 1 | split column "M ""8G ""K "
+df -hP | lines | skip 1 | split column "8G "
+df -hP | lines | skip 1 | split column "    "
+df -hP | lines | skip 1 | split column "|"
+lspd
+lspd | sort-by Name
+lspd | sort-by Name --reverse
+lspd | sort-by Time --reverse
+clear
+lspd | sort-by Time -n
+pacman -Qet
+pacman -Qet | parse "{name} {version}"
+sudo pacman -Rsn android-tools
+pacman -Rsn dolphin
+sudo pacman -Rsn dolphin
+clear
+sudo pacman -Syu
+clear
+pacman -Rsn lolcat
+suddo pacman -Rsn lolcat
+sudo pacman -Rsn lolcat
+pacman -Rsn faketime
+sudo pacman -Rsn faketime
+fastfetch 
+bto
+sudo pacman -Rsn qt6ct
+fd
+fd | fzf
+clear
+fastfetch 
+pacman -Qet | parse "{name} {version}"
+sudo pacman -Rsn bambustudio-bin
+clear
+ls
+clear
+ls
+yay -S whatscli
+yay -Qet
+yay -Qet | parse "{name} {version}"
+z /home/ezekiel/.config/waybar/
+zoxide /home/ezekiel/.config/waybar/
+sudo pacman -Rsn zoxide
+clear
+fastfetch 
+flatpak list
+flatpak uninstall OBS Studio WebCord 
+fastfetch 
+flatpak list system
+flatpak list -system
+flatpak list --system
+flatpak list --user
+clear
+flatpak list --app
+flatpak list --app --show-size
+flatpak list --app --columns=size | sort -g
+flatpak list --app --columns=size |sort -g
+flatpak list --app --columns=size,name|sort -g
+flatpak list --app --columns=size,name
+flatpak uninstall Boxes Mission Center
+cd .config/hypr/
+nvim keybindings.conf
+reboot
+fastfetch 
+nvim .bashrc
+sudo update-alternatives --config editor
+/usr/bin/
+ls
+select-editor
+cd /usr/share/applications/
+ls
+cd .config/nushell/
+cd ~/.config/nushell/
+ls
+spf
+sudo pacman -Syu
+cd .config/superfile/
+ls
+spf
+nvim config.toml
+clear
+pacman -Rsn gtk
+pacman -Qet | parse "{name} {version}"
+lutris
+cd /media/nvme2/Games/
+ls
+rm -rf Marvels.Spider.Man.2.v1.205.0.0
+cd winePrefixes/
+l
+lh
+ll
+ollamaOn
+spf
+ls -ld
+du -h
+du -h /media/nvme2
+du -sh `/media/nvme2/Games/winePrefixes/marvel's-spider-man-2/`
+ollama run deepseek-r1:14b
+ollamaOff
+poweroff
+systemctl list-jobs
+systemctl is-running ollama
+ollamaOdd
+ollamaOff
+df -h
+cd /dev/
+ls
+du
+cd /dev/nvme1n1p2
+sudo pacman -S dolphin
+dolphin
+mnt
+ollamaOn
+lsblk
+moe.launcher.the-honkers-railway-launcher 
+mount /dev/nvme1n1p2 /mnt/temp
+sudo mount /dev/nvme1n1p2 /mnt/temp
+cd /mnt/temp
+cd /mnt/
+ls
+sudo mkdir /mnt/temp
+sudo mount -t ntfs /dev/nvme1n1p2 /mnt/temp
+df -hT
+sudo mount -t ntfs3 /dev/nvme1n1p2 /mnt/temp
+cd /mnt/temp
+ls
+ls -a
+cd ..
+sudo rm -rf dolphin
+ls
+sudo pacman -Rsn dolphin 
+cd ~
+clear
+cd /mnt/temp
+ls
+ollama run deepseek-r1:14b
+ollamaOff
+clear
+cd Giochi
+ls
+cd ~
+reboot
+cd /mnt/temp/
+ls
+clear
+sudo mount -t ntfs3 /dev/nvme1n1p2 /mnt/temp
+sudo unmount /mnt/temp
+mount -h
+clear
+ls
+cd Giochi
+ls
+cd ..
+ollamaOn
+lsbk
+lsblk
+cd ~
+sudo umount /mnt/temp
+ls /mnt/temp
+ls
+clear
+ollama run deepseek-r1:14b
+clear
+ollamaOff
+lsblk
+sudo mount -t ntfs3 /dev/nvme1n1p2 /mnt/temp
+ls
+cd Downloads/
+ls
+mv 'Avowed [FitGirl Repack]/' /mnt/temp/download/
+sudo mv 'Avowed [FitGirl Repack]/' /mnt/temp/download/
+cd /mnt/temp/download/
+ls
+reboot
+cd .config/hypr/
+ls
+nvim hyprland.conf
+fastfetch 
+ls /mnt/temp
+cd /mnt/temp
+l
+..
+l
+chown -c ezekiel temp
+sudo chown -c ezekiel temp
+l
+cd temp/
+nvim test.md
+ls
+rm test.md
+clear
+lutris
+moe.launcher.the-honkers-railway-launcher 
+clear
+poweroff
+cd .config/hypr/
+nvim windowrules.conf
+nvim .config/kitty/theme.conf
+poweroff
+fastfetch 
+cd .config/hypr/themes/
+lutris
+moe.launcher.the-honkers-railway-launcher --help
+cd .config/kitty
+moe.launcher.the-honkers-railway-launcher
+clear
+cd .config/nvim/lua/config/
+cd ../plugins/
+ls
+nvim colorScheme.lua
+nvim lualinecustom.lua
+nvim example.lua
+nvim lualinecustom.lua
+nvim example.lua
+nvim lualinecustom.lua
+nvim example.lua
+nvim lualinecustom.lua
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine
+ls
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine
+nvim lualinecustom.lua
+nvim config.lua
+...
+..
+ls
+..
+ls
+../config/
+ls
+nvim
+nvim ../plugins/lualinecustom.lua
+cd ../plugins/
+ls
+rm lualinecustom.lua
+clear
+../config/
+ls
+../plugins
+ls
+nvims
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Traap/nvims/master/install.sh)"
+/bin -c "$(curl -fsSL https://raw.githubusercontent.com/Traap/nvims/master/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Traap/nvims/master/install.sh)"
+cd ~/.local/share/nvim
+ls
+nvim
+cd lazy/lualine.nvim/
+ls
+cd lua
+ls
+nvim lualine.lua
+ls
+cd lualine/
+ls
+cd themes
+ls
+nvim 16color.lua
+...
+nvim
+nvim 16color.lua
+cd ~/.config/nvim
+ls
+nvim init.lua
+nvim
+nvim test
+cd .config/nvim/
+ls
+nvim GUIDE
+ls
+mv GUIDE GUIDE.md
+ls
+nvim GUIDE.md
+mv GUIDE.md GUIDE.txt
+ls
+nvim init.lua
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine
+ls
+cd themes
+ls
+nvim init.lua
+cd ~/Coding/Rust/hello_world/hello_cargo/
+ls
+cd src
+ls
+nvim 16color.lua
+nvim main.rs
+cd ~
+clear
+nvim
+cd .config/nvim/
+ls
+cd lua/plugins/
+nvim example.lua
+clear
+yay -Syu
+sudo pacman -Syu
+ls
+rm go
+rm -rf go
+ls
+cd .config/superfile/
+ls
+cd theme
+ls
+clear
+fastfetch 
+cd .config/hypr
+nvim hyprland.conf
+nvim
+xdg-settings 
+$fileManager
+$fileManager = kitty -e spf
+xdg-mime
+xdg-mime query default inode/directory
+xdg-mime default spf.desktop inode/directory
+xdg-mime query default inode/directory
+ls
+cd /media/nvme2/Games
+ls
+cd winePrefixes/
+ls
+..
+cd ~/Downloads/
+cd 'Split Fiction [FitGirl Repack]/'
+ls
+`./Verify BIN files before installation.bat`
+`./Verify BIN files before installation.sh`
+nvim `Verify BIN files before installation.bat`
+kill lutris kitty
+cd Downloads/
+ls
+rm *.3mf
+ls
+rm -rf 'Split Fiction [FitGirl Repack]/'
+ls
+lutris
+..
+clear
+sudo pacman -Syu
+reboot
+cd .config/spf
+cd .config/superfile/
+ls
+cd theme
+ls
+spf
+cd .config/kitty
+fastfetch 
+hyprctl -h
+hyprctl monitors
+hyprctl activeworkspace
+mv /usr/bin/shadps4 /media/nvme2/Games/shadPS4/
+sudo mv /usr/bin/shadps4 /media/nvme2/Games/shadPS4/
+sudo mv /usr/bin/Shadps4-qt.AppImage4 /media/nvme2/Games/shadPS4/
+sudo mv /usr/bin/Shadps4-qt.AppImage /media/nvme2/Games/shadPS4/
+cd .local/share/shadPS4/addcont/
+ls
+spf
+spf --fix-config-file
+spf
+ls
+spf
+spf -h
+spf -v
+yay -Syu
+clear
+lutris
+sudo pacman -Rsn clapper
+clapper
+clang
+cd Coding/Homework/
+ls
+rm fork
+ls
+clang fork.c
+ls
+a.out
+./a.out
+pacman -Rsn gcc
+sudo pacman -Rsn gcc
+lutris -v
+fastfetch 
+flatpak list
+flatpak uninstall Video Downloader 
+flatpak list system
+flatpak list --system
+clear
+fastfetch 
+yay -S smassh-bin
+smassh
+pacman -Qet | parse "{name} {version}"
+smassh -h
+cd .config/smassh/
+ls
+nvim
+poweroff plz
+poweroff 
+nvim
+cd .local/share/nvim
+nvim
+cd .config/nvim/
+ls
+cd lua/plugins/
+ls
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+nvim startup.lua
+nvim
+fastfetch 
+cd .config/nvim/lua/plugins/
+ls
+moe.launcher.the-honkers-railway-launcher
+sudo pacman -S kitty
+sudo pacman -Syu
+df -h
+lutris
+moe.launcher.the-honkers-railway-launcher
+nvim
+poweroff 
+moe.launcher.the-honkers-railway-launcher
+flatpak update
+sudo pacman -Syu
+moe.launcher.the-honkers-railway-launcher
+reboot
+moe.launcher.the-honkers-railway-launcher
+poweroff 
+nvim
+cd .config/nvim/lua/plugins/
+ls
+nvim lualine.lua
+nvim
+nvim lualine.lua
+nvim
+nvim lualine.lua
+nvim
+nvim lualine.lua
+nvim
+nvim lualine.lua
+nvim
+nvim lualine.lua
+cd .config/nvim
+nvim init.lua
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine/themes/
+ls
+nvim lualine.lua
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine
+ls
+..
+ls
+nvim lualine.lua
+nvim .config/nvim/lua/plugins/example.lua
+nvim lualine.lua
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine
+ls
+..
+ls
+cd lualine
+ls
+nvim config.lua
+cd .local/share/nvim/
+ls
+nvim lualine.lua
+cd .local/share/nvim/lazy/lualine.nvim/lua/lualine/themes/
+nvim lualine.lua
+ls
+mkdir github 
+cp .config ./github/configs
+cp -r .config ./github/configs
+spf
+cp -r .config ./github/configs
+ls
+cd github
+ls
+cd configs/
+ls
+cd ..
+ls
+rm -rf
+rm -rf *
+ls
+cd ..
+ls
+spf
+cd github
+ls
+cd ..
+ls
+cd github
+ls
+ls -a
+mv ./.config/configs
+mv ./.config ./configs
+ls
+cd ..
+ls
+rm -rf github
+ls
+mkdir configs
+cd .config
+ls
+cd btop
+l
+sls
+ls
+cd themes
+ls
+...
+ls
+git commit
+git clone https://github.com/Ezekiel0108/linuxconfigs/configs
+git clone https://github.com/Ezekiel0108/linuxconfigs.git
+git config --global user.name "Ezekiel0108"
+git config --global user.name
+cd ~
+git config --global user.name
+git config --help
+git config
+git config --global user.email "giuseppemonciino07@gmail.com"
+git config --global user.email 
+gh auth login
+sudo pacman -S gh
+sudo pacman -S github
+sudo pacman -S github-cli
+clear
+gh auth login
+gh -h
+gh browse https://github.com/Ezekiel0108/linuxconfigs.git
+gh browse
+gh repo
+gh repo list
+gh repo view 
+gh repo view --web
+gh repo clone Ezekiel0108/linuxconfigs
+ls
+rm configs
+rm -rf linuxconfigs
+clear
+ls
+mkdir Github
+ls
+cd Github
+gh repo clone Ezekiel0108/linuxconfigs
+cd .config/nvim
+ls
+cd lua/plugins/
+ls
+nvim codeCompanion.lua
+rm codeCompanion.lua
+../config/
+ls
+nvim
+cd linuxconfigs/
+ls
+cd configs/
+ls
+rm starship.toml
+git add ~/.config/*
+git add .
+ls
+cp .config/* ./
+cp ~/.config/* ./

@@ -1,0 +1,12 @@
+    "custom/neovim": {
+
+      "format": "<span size='x-large'></span>",
+      "rotate": 0,
+      "exec": "echo ; echo  open neovim",
+      "on-click": "sleep 0.1 && nvim",
+      "interval": 86400,
+      "tooltip": true
+
+    },
+
+
