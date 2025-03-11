@@ -90,7 +90,7 @@
     "tooltip": true
   },
   "custom/codeIcon": {
-    "format": "<span size='x-large'></span>",
+    "format": "<span size='x-large'></span>",
     "rotate": 0,
     "interval": 86400,
     "tooltip": false
