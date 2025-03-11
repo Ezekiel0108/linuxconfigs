@@ -38,12 +38,12 @@ disabled = false
 show_always = true
 style_user = "bg:#e4b1f0"
 style_root = "bg:#e4b1f0"
-format = '[ 󰣇 $user ](bg:#e4b1f0 fg:#f5efff)'
+format = '[  $user ](bg:#e4b1f0 fg:#f5efff)'
 disabled = false
 
 [os]
 style = "bg:#9A348E"
-disabled = true # Disabled by default
+disabled = true      # Disabled by default
 
 [directory]
 style = "bg:#cb9df0"
@@ -133,12 +133,11 @@ format = '[ $symbol ($version) ]($style)'
 
 [time]
 disabled = false
-time_format = "%R" # Hour:Minute Format
+time_format = "%R"              # Hour:Minute Format
 style = "bg:#624e88 fg:#f5efff"
 format = '[  $time ]($style)'
-	
+
 [character]
 success_symbol = '[╰─❯](bold cyan)'
 error_symbol = '[╰─❯](bold red)'
 #style = "bg:#624e88"
-
