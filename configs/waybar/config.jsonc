@@ -34,7 +34,7 @@
     "custom/padd",
     "custom/cava_lL",
     "custom/cava",
-    "custom/codeIcon",
+    "custom/terminal",
     "clock",
     "custom/neovim",
     "custom/cava",
@@ -89,11 +89,13 @@
     "interval": 86400,
     "tooltip": true
   },
-  "custom/codeIcon": {
-    "format": "<span size='x-large'></span>",
+  "custom/terminal": {
+    "format": "<span size='x-large'> </span>",
+    "exec": "echo ; echo  open terminal",
+    "on-click": "sleep 0.1 && kitty",
     "rotate": 0,
     "interval": 86400,
-    "tooltip": false
+    "tooltip": true
   },
   "wlr/taskbar": {
     "format": "{icon}",
@@ -227,7 +229,7 @@
     "format-disconnected": "<span size= 'x-large'>󰖪</span>",
     "tooltip-format-disconnected": "Disconnected",
     "format-alt": "<span foreground='#99ffdd'> {bandwidthDownBytes}</span> <span foreground='#ffcc66'> {bandwidthUpBytes}</span>",
-    "interval": 2,
+    "interval": 2
   },
   "pulseaudio": {
     "format": "{icon}  {volume}",
