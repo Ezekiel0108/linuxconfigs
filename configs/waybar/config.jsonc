@@ -90,7 +90,7 @@
     "tooltip": true
   },
   "custom/terminal": {
-    "format": "<span size='x-large'> </span>",
+    "format": "<span size='x-large'>  </span>",
     "exec": "echo ; echo  open terminal",
     "on-click": "sleep 0.1 && kitty",
     "rotate": 0,
