@@ -19,6 +19,8 @@
   "modules-left": [
     "custom/padd",
     "custom/power",
+    "custom/paddSmall",
+    "hyprland/workspaces",
     "custom/r_end",
     "custom/l_end",
     "custom/ytMusic",
@@ -74,6 +76,11 @@
     "on-click": "sleep 0.1 && youtube-music",
     "interval": 86400, // once every day
     "tooltip": true
+  },
+  "hyprland/workspaces": {
+    "format": "{icon}",
+    "on-scroll-up": "hyprctl dispatch workspace e+1",
+    "on-scroll-down": "hyprctl dispatch workspace e-1"
   },
   "custom/cava": {
     "format": "{}",
@@ -357,6 +364,11 @@
   },
   "custom/padd": {
     "format": "  ",
+    "interval": "once",
+    "tooltip": false
+  },
+  "custom/paddSmall": {
+    "format": " ",
     "interval": "once",
     "tooltip": false
   }
