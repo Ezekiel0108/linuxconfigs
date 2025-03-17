@@ -72,7 +72,7 @@
   "custom/ytMusic": {
     "format": "<span size='x-large'> </span>",
     "rotate": 0,
-    "exec": "echo ; echo  open neovim",
+    "exec": "echo ; echo  open YTMusic",
     "on-click": "sleep 0.1 && youtube-music",
     "on-click-middle": "killall youtube-music",
     "interval": 86400, // once every day
