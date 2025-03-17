@@ -72,8 +72,9 @@
   "custom/ytMusic": {
     "format": "<span size='x-large'> </span>",
     "rotate": 0,
-    "exec": "echo ; echo  open Youtube Music",
+    "exec": "echo ; echo  open neovim",
     "on-click": "sleep 0.1 && youtube-music",
+    "on-click-middle": "killall youtube-music",
     "interval": 86400, // once every day
     "tooltip": true
   },
@@ -115,7 +116,7 @@
     "on-click-middle": "close",
     "ignore-list": [
       "kitty",
-      "*YouTube Music*"
+      "youtube-music"
     ],
     "app_ids-mapping": {
       "firefoxdeveloperedition": "firefox-developer-edition",
