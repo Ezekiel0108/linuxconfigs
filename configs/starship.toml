@@ -1,5 +1,5 @@
 format = """
-[╭── ░▒▓](#e1afd1)\
+[╭─ ░▒▓](#e1afd1)\
 $os\
 $username\
 [](bg:#cb9df0 fg:#e4b1f0)\
@@ -59,76 +59,76 @@ truncation_symbol = "…/"
 
 [c]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [python]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [docker_context]
 symbol = " "
-style = "bg:#8967b3"
+style = "bg:#8967b3 fg:#f5efff"
 format = '[ $symbol $context ]($style) $path'
 
 [elixir]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [elm]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [git_branch]
 symbol = ""
-style = "bg:#c38bf0"
+style = "bg:#c38bf0 fg:#f5efff"
 format = '[ $symbol $branch ]($style)'
 
 [git_status]
-style = "bg:#c38bf0"
+style = "bg:#c38bf0 fg:#f5efff"
 format = '[$all_status$ahead_behind ]($style)'
 
 [golang]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [haskell]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [java]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [julia]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [nodejs]
 symbol = ""
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [nim]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [rust]
 symbol = ""
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [scala]
 symbol = " "
-style = "bg:#bb7feb"
+style = "bg:#bb7feb fg:#f5efff"
 format = '[ $symbol ($version) ]($style)'
 
 [time]
@@ -138,6 +138,6 @@ style = "bg:#624e88 fg:#f5efff"
 format = '[  $time ]($style)'
 
 [character]
-success_symbol = '[╰─❯](bold cyan)'
-error_symbol = '[╰─❯](bold red)'
+success_symbol = '[╰──❯](bold cyan)'
+error_symbol = '[╰──❯](bold red)'
 #style = "bg:#624e88"
