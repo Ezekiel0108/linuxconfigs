@@ -10,7 +10,7 @@
   "height": 31,
   "exclusive": true,
   "passthrough": false,
-  "gtk-layer-shell": true,
+  "gtk-layer-shell": false,
   "reload_style_on_change": true,
   "margin-top": 5,
   "margin-left": 6,
@@ -70,7 +70,7 @@
     "tooltip": true
   },
   "custom/ytMusic": {
-    "format": "<span size='x-large'> </span>",
+    "format": "<span size='x-large'> </span> ",
     "rotate": 0,
     "exec": "echo ; echo  open YTMusic",
     "on-click": "sleep 0.1 && youtube-music",
