@@ -29,6 +29,7 @@ $env.config.show_banner = false
 
 #ls to eza
 alias l = eza -lh  --icons=auto
+alias la = eza -a -1 --icons=auto
 alias ls = eza -1   --icons=auto
 alias ll = eza -lha --icons=auto
 alias ld = eza -lhD --icons=auto
@@ -73,3 +74,7 @@ alias cd = __zoxide_z
 
 #use fzf with preview(bat)
  alias fzf = fzf --preview="bat --color=always {}"
+
+
+
+
