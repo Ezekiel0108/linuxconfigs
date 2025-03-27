@@ -45,6 +45,9 @@ alias kill = killall
 #ls for date of installed pacmans in  a cool table :)
 alias lspd = ~/Scripts/archNuLsDate.sh
 
+#see most used commands
+alias lsmuc = ~/Scripts/mostUsedCommands.sh
+
 #activate/disable ollama service
 
 alias ollamaOn = sudo systemctl start ollama.service
