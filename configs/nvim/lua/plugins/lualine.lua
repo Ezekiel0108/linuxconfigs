@@ -85,6 +85,36 @@ return {
           },
           lualine_x = {
             Snacks.profiler.status(),
+
+            {
+              "copilot",
+              -- Default values
+              symbols = {
+                status = {
+                  icons = {
+                    enabled = " ",
+                    sleep = " ", -- auto-trigger disabled
+                    disabled = " ",
+                    warning = " ",
+                    unknown = " ",
+                  },
+                  hl = {
+                    enabled = "#c48bf0",
+                    sleep = "#fffbfb",
+                    disabled = "#6272A4",
+                    warning = "#FFFBBE",
+                    unknown = "#FF5555",
+                  },
+                },
+                spinners = "dots", -- has some premade spinners
+                spinner_color = "#6272A4",
+              },
+              show_colors = true,
+              show_loading = true,
+            },
+            "encoding",
+            "fileformat",
+            "filetype",
             -- stylua: ignore
             {
               function() return require("noice").api.status.command.get() end,
