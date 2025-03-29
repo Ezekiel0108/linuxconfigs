@@ -53,30 +53,31 @@ alias lsmuc = ~/Scripts/mostUsedCommands.sh
 alias ollamaOn = sudo systemctl start ollama.service
 alias ollamaOff = sudo systemctl stop ollama.service
 
-#env variables
-$env.config.completions.use_ls_colors = false
-
-$env.config = {
-
-  color_config: {
-
-    shape_external: red
-    shape_external_resolved: cyan_underline
-    shape_internalcall: cyan_underline
-    shape_custom: cyan_underline
-    shape_externalarg: yellow
-    shape_externalarg_resolved: yellow_underline
-    shape_string_interpolation: purple_underline
-
-  }
-}
-
 #zoxide
 source ~/.zoxide.nu
 alias cd = __zoxide_z
 
 #use fzf with preview(bat)
  alias fzf = fzf --preview="bat --color=always {}"
+
+#env variables
+$env.config.completions.use_ls_colors = false
+
+#$env.config = {
+
+# color_config: {
+
+#   shape_external: red
+#   shape_external_resolved: cyan_underline
+#   shape_internalcall: cyan_underline
+#   shape_custom: cyan_underline
+#   shape_externalarg: yellow
+#   shape_externalarg_resolved: yellow_underline
+#   shape_string_interpolation: purple_underline
+
+# }
+#}
+
 
 
 
