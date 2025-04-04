@@ -58,7 +58,7 @@ source ~/.zoxide.nu
 alias cd = __zoxide_z
 
 #use fzf with preview(bat)
- alias fzf = fzf --preview="bat --color=always {}"
+ alias fzf = fzf  --style full --preview="bat --color=always {}"
 
 #env variables
 $env.config.completions.use_ls_colors = false
