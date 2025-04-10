@@ -6,11 +6,11 @@
 
 ## Screenshots
 
-![image](./images/screenshot1.png)
+![image](imgs/img1.png)
 
-![image](./images/screenshot2.png)
+![image](imgs/img2.png)
 
-![image](./images/screenshot3.png)
+![image](imgs/img3.png)
 
 ## Important programs
 
