@@ -31,12 +31,13 @@ These are some config files for a *pink/purple* aestetic on Hyprland. Be sure to
 
 ## TODO
 
-- [x] Make a somewhat readable README
-- [ ] Add a script to install all my linux packages
-- [ ] Add a script to install all the programs
-- [ ] Add a script to install all the config files
-- [ ] Make all of the scripts work from just one install script
-- [ ] Make my own version of neovim not reliant on lazyvim  
+- [x] Make a somewhat readable README.
+- [ ] Add all the keymaps below for ease of use.
+- [ ] Add a script to install all my linux packages.
+- [ ] Add a script to install all the programs.
+- [ ] Add a script to install all the config files.
+- [ ] Make all of the scripts work from just one install script.
+- [ ] Make my own version of neovim not reliant on lazyvim.
 
 ## CREDITS
 
