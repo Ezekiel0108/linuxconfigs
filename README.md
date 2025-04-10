@@ -4,6 +4,8 @@
 > This is very much a work in progress.
 > If you have any feedback please do let me know.
 
+#### These are some config files for a pink/purple aestetic on Hyprland. Be sure to check out the important programs section for the programs I use.
+
 ## Screenshots
 
 ![image](imgs/img1.png)
