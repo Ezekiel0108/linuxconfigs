@@ -1,7 +1,7 @@
 # My linux config files
 
 > [!WARNING]  
-> This is very much a work in progress.
+> This is very much a work in progress. Check out the TODO section for updates :).
 >
 > If you have any feedback please do let me know.
 
