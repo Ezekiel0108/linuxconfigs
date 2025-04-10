@@ -1,7 +1,7 @@
 # My linux config files
 
-> [!WARING]
-> This is very very very unfinished, please if you have any tips do tell me!
+> [!WARNING]  
+> This is very much a work in progress. If you have any feedback please do let me know.
 
 ## Important programs
 
