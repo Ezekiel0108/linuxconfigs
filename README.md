@@ -41,7 +41,7 @@ These are some config files for a *pink/purple* aestetic on Hyprland. Be sure to
 
 ## CREDITS
 
-This whole project would not be possible without the [*HyDE*](httpss://github.com/HyDE-Project/HyDE) scripts and their config files.
+This whole project would not be possible without the [*HyDE*](https://github.com/HyDE-Project/HyDE) scripts and their config files.
 
 please check them out as **they are the ones who made this possible**.
 
