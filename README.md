@@ -1,7 +1,16 @@
 # My linux config files
 
 > [!WARNING]  
-> This is very much a work in progress. If you have any feedback please do let me know.
+> This is very much a work in progress.
+> If you have any feedback please do let me know.
+
+## Screenshots
+
+![image info](images/screenshot1.png)
+
+![images info](images/screenshot2.png)
+
+![images info](images/screenshot3.png)
 
 ## Important programs
 
