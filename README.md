@@ -1,5 +1,8 @@
 # My linux config files
 
+[!WARING]
+This is very very very unfinished, please if you have any tips do tell me!
+
 ## Important programs
 
 [*Shell*](https://github.com/nushell/nushell)
