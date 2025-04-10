@@ -4,7 +4,7 @@
 > This is very much a work in progress.
 > If you have any feedback please do let me know.
 
-#### These are some config files for a pink/purple aestetic on Hyprland. Be sure to check out the important programs section for the programs I use.
+#### These are some config files for a pink/purple aestetic on Hyprland. Be sure to check out the important programs section for the programs I use
 
 ## Screenshots
 
@@ -16,15 +16,15 @@
 
 ## Important programs
 
-[*Shell*](https://github.com/nushell/nushell)
+[*Nushell*](https://github.com/nushell/nushell)
 
-[*Terminal*](https://github.com/kovidgoyal/kitty) paired with [starship](https://github.com/starship/starship)
+[*Kitty*](https://github.com/kovidgoyal/kitty) paired with [starship](https://github.com/starship/starship)
 
-[*WM*](https://github.com/hyprwm/Hyprland)
+[*Hyprland*](https://github.com/hyprwm/Hyprland)
 
 [*Neovim*](https://github.com/neovim/neovim) with [LazyVim](https://github.com/LazyVim/LazyVim)
 
-[*File explorer*](https://github.com/sxyazi/yazi)
+[*Yazi*](https://github.com/sxyazi/yazi)
 
 ## TODO
 
