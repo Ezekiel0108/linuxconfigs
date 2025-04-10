@@ -34,3 +34,8 @@
 - [ ] Add a script to install all the config files
 - [ ] Make all of the scripts work from just one install script
 - [ ] Make my own version of neovim not reliant on lazyvim  
+
+## CREDITS
+
+This whole project would not be possible without the [*HyDE*](httpss://github.com/HyDE-Project/HyDE) scripts and their config files.
+please check them out as **they are the ones who made this possible**.
